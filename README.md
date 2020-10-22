@@ -93,14 +93,6 @@ Two previous milestone markdown and files.
 
 Collection of Jupyter Notebooks used during pre-processing and for different analysis.
  
-
-#### Processbook
-
-`processbook`
-
-Processbook link: [processbook.pdf](/processbook/processbook.pdf)
-
-
 #### Spotify
 
 `spotify` contains the code to download data from Spotify as well as some already well-formatted exploratory data analysis notebooks.
