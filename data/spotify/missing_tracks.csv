@@ -1,0 +1,287 @@
+,name_track,duration_ms,explicit,artists_track,featuring,track_number,disc_number,name_album,artist,uri_track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+0,S&M,243533,False,['Rihanna'],False,1,1,Loud,Rihanna,spotify:track:0C4ejWmOTMv8vuYj85mf8m,0.766,0.682,1,-5.02,1,0.0419,0.0113,0.00016,0.104,0.833,127.966,4
+1,What's My Name?,263173,False,"['Rihanna', 'Drake']",True,2,1,Loud,Rihanna,spotify:track:5FTCKvxzqy72ceS4Ujux4N,0.69,0.786,2,-2.959,1,0.0692,0.229,0.0,0.0797,0.583,100.049,4
+2,Cheers (Drink To That),261746,False,['Rihanna'],False,3,1,Loud,Rihanna,spotify:track:5Lm8wha7kmEuqyjJ237HNM,0.576,0.912,9,-3.623,1,0.0403,0.0182,0.0,0.293,0.727,79.981,4
+3,Fading,207253,False,['Rihanna'],False,4,1,Loud,Rihanna,spotify:track:2P9zV8VmHIPEYK2U2s0lUi,0.677,0.698,6,-5.07,1,0.167,0.0442,1.59e-06,0.157,0.323,88.344,4
+4,Only Girl (In The World),235493,False,['Rihanna'],False,5,1,Loud,Rihanna,spotify:track:0AH6WMe3OlAlUb5miXt2FQ,0.789,0.716,11,-4.241,0,0.0434,0.13,1.09e-05,0.069,0.609,125.91,4
+5,California King Bed,251613,False,['Rihanna'],False,6,1,Loud,Rihanna,spotify:track:0uIGzK6ukV0A5yWoCxPkRL,0.467,0.586,7,-3.942,1,0.0357,0.218,0.0,0.12,0.318,169.93,4
+6,Man Down,267000,True,['Rihanna'],False,7,1,Loud,Rihanna,spotify:track:1Bx0zEdVjkFlV27iKaePug,0.477,0.904,0,-4.024,0,0.177,0.0437,0.0,0.0491,0.552,155.781,4
+7,Raining Men,224840,True,"['Rihanna', 'Nicki Minaj']",True,8,1,Loud,Rihanna,spotify:track:1gCWLA71vXQmINwo6WxH4t,0.655,0.802,10,-4.818,0,0.176,0.015,0.0,0.337,0.845,157.932,4
+8,Complicated,257506,True,['Rihanna'],False,9,1,Loud,Rihanna,spotify:track:2irJDnniX31d1ja0a13q4p,0.71,0.897,0,-3.802,1,0.0372,0.175,0.0,0.0918,0.33,137.972,4
+9,Skin,303733,False,['Rihanna'],False,10,1,Loud,Rihanna,spotify:track:0a2JCinEvl21WeWLJBt7hM,0.638,0.573,7,-6.843,0,0.0449,0.139,0.0,0.13,0.114,126.998,4
+10,Love The Way You Lie (Part II) - Pt. 2,296226,True,"['Rihanna', 'Eminem']",True,11,1,Loud,Rihanna,spotify:track:6M6lsQB4OhqL41eld29PeC,0.472,0.833,10,-4.486,1,0.162,0.297,0.0,0.056,0.413,166.271,4
+11,Only Girl (In The World) - The Bimbo Jones Club,437466,False,"['Rihanna', 'Marc Jackson Burrows', 'Lee Dagger']",True,12,1,Loud,Rihanna,spotify:track:2H7D14ayVHyNSNNGVmatyA,0.705,0.941,11,-5.211,0,0.0418,0.0135,0.0153,0.292,0.744,127.868,4
+12,Umbrella,275986,False,"['Rihanna', 'JAY-Z']",True,1,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:49FYlytm3dAAraYgpoJZux,0.583,0.829,1,-4.603,1,0.134,0.00864,0.0,0.0426,0.575,174.028,4
+13,Push Up On Me,195040,False,['Rihanna'],False,2,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:6QV8q0qVAyHjlnqQ39YIe1,0.791,0.88,1,-5.398,1,0.06,0.0142,0.119,0.033,0.641,119.939,4
+14,Don't Stop The Music,267080,False,['Rihanna'],False,3,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:0ByMNEPAPpOR5H69DVrTNy,0.835,0.669,6,-5.582,0,0.0643,0.0336,6.92e-05,0.0535,0.542,122.668,4
+15,Breakin' Dishes,200573,False,['Rihanna'],False,4,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:46aZJc0z1HHHSFxaIRxYSP,0.801,0.674,8,-4.185,0,0.0311,0.000282,0.000139,0.0914,0.875,125.009,4
+16,Shut Up And Drive,212280,False,['Rihanna'],False,5,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:4Tn2llBm1g0UlWctmgPL8Z,0.735,0.826,1,-4.902,1,0.0349,0.00101,0.129,0.197,0.74,132.964,4
+17,Hate That I Love You,218946,False,"['Rihanna', 'Ne-Yo']",True,6,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:7iu0WYLdo4yksKf3seaxzI,0.637,0.73,5,-5.38,0,0.0874,0.323,0.0,0.0981,0.732,93.867,4
+18,Say It,250666,False,['Rihanna'],False,7,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:1X0PGm7eJoC6LmXpczYeaN,0.575,0.588,1,-6.659,1,0.0515,0.0867,0.0,0.344,0.401,156.797,4
+19,Sell Me Candy,165133,False,['Rihanna'],False,8,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:4jfHNGbzF5EGAD3iET0lsd,0.653,0.909,8,-5.059,1,0.196,0.142,0.0,0.0365,0.72,85.318,4
+20,Lemme Get That,221026,False,['Rihanna'],False,9,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:1pKEXuXVJ9PCJj2BNrG4kX,0.704,0.894,8,-5.731,1,0.165,0.103,0.000221,0.075,0.723,175.842,4
+21,Rehab,294720,False,['Rihanna'],False,10,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:5X3ahLXhOw16BR09GjYPUT,0.583,0.792,1,-5.894,1,0.0533,0.00321,4.92e-05,0.315,0.397,80.055,4
+22,Question Existing,245493,False,['Rihanna'],False,11,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:5hfB5nQatLPlqyKmVEpEVI,0.255,0.656,11,-5.783,1,0.0769,0.144,0.0,0.365,0.276,178.356,3
+23,Good Girl Gone Bad,213213,False,['Rihanna'],False,12,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:6g1B0hd6rlT3xP3mERUnz8,0.708,0.553,5,-6.319,0,0.0262,0.0335,0.0,0.101,0.589,94.977,4
+24,Disturbia,238626,False,['Rihanna'],False,13,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:2VOomzT6VavJOGBeySqaMc,0.707,0.813,11,-4.515,0,0.0571,0.0863,0.0,0.168,0.722,124.921,4
+25,Take A Bow,229413,False,['Rihanna'],False,14,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:3goSVuTt3fDYDP6kRnFwuL,0.697,0.467,9,-7.536,1,0.0715,0.248,0.0,0.0941,0.572,82.082,4
+26,If I Never See Your Face Again,198240,False,"['Maroon 5', 'Rihanna']",True,15,1,Good Girl Gone Bad: Reloaded,Rihanna,spotify:track:2CtaTmkRB7csW9XAZbWHDq,0.763,0.781,6,-3.718,1,0.0357,0.00468,5.27e-06,0.116,0.914,106.015,4
+27,Umbrella - Seamus Haji & Paul Emanuel,238240,False,"['Rihanna', 'JAY-Z', 'Seamus Haji', 'Paul Emanuel']",True,1,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:2b15tXMkdnrTVmTxktq7Tq,0.765,0.845,1,-3.223,1,0.0591,9.1e-05,6.65e-06,0.0713,0.764,125.003,4
+28,Disturbia - Jody den Broeder,231173,False,['Rihanna'],False,2,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:3empwGY5IFwaRgn5R8r1p1,0.804,0.878,11,-4.38,0,0.0468,0.00989,0.000661,0.584,0.904,127.978,4
+29,Shut Up And Drive - The Wideboys,219040,False,"['Rihanna', 'Wideboys']",True,3,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:1XekHLeG9WMs4Iy4EbbvCR,0.611,0.909,1,-3.836,1,0.326,0.000666,0.00949,0.343,0.573,128.051,4
+30,Don't Stop The Music - Jody den Broeder,189720,False,"['Rihanna', 'Jody Den Broeder']",True,4,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:29C7Be2EngZnn7GSK3dDOW,0.733,0.886,11,-3.462,0,0.0381,0.0012,0.00033,0.415,0.762,125.964,4
+31,Take A Bow - Tony Moran & Warren Riggs,242266,False,['Rihanna'],False,5,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:7tcxXaD8pklUOIUIrwVUhx,0.566,0.936,9,-4.922,1,0.0363,0.00449,3.89e-06,0.465,0.615,130.031,4
+32,Breakin' Dishes - Soul Seekerz,199640,False,"['Rihanna', 'Soulseekerz']",True,6,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:6Z5yD9aOtXVWYwIBQy6KPM,0.549,0.903,11,-6.558,0,0.0362,0.000587,0.845,0.353,0.517,127.971,4
+33,Hate That I Love You - K-Klassic,238613,False,"['Rihanna', 'Ne-Yo', 'K-Klass']",True,7,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:6SqkAuZuDhQmY0p2s8T1m0,0.632,0.906,8,-3.823,1,0.0287,0.00134,0.00374,0.356,0.59,121.982,4
+34,Question Existing - The Wideboys,220440,False,"['Rihanna', 'Wideboys']",True,8,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:1K0wvTTsG6UAGF68xUmUc3,0.516,0.909,1,-3.721,0,0.16,0.0088,7.31e-05,0.308,0.55,125.951,4
+35,Push Up On Me - Moto Blanco,208746,False,"['Rihanna', 'Moto Blanco']",True,9,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:4whG6kcgqybA84DBbgwQkQ,0.632,0.953,1,-4.764,1,0.0377,3.31e-05,0.91,0.267,0.794,128.007,4
+36,Good Girl Gone Bad - Soul Seekerz,208213,False,"['Rihanna', 'Soulseekerz']",True,10,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:2JW9OfqzIrJDJGx0kVEC6n,0.589,0.919,5,-5.505,0,0.0351,0.000109,2.39e-06,0.367,0.543,127.999,4
+37,Say It - Soul Seekerz,260386,False,"['Rihanna', 'Soulseekerz']",True,11,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:6P1pkjx7cMDKBU1TP7CqHY,0.65,0.932,6,-5.265,1,0.0391,0.000205,0.134,0.0297,0.872,127.998,4
+38,Umbrella - Lindbergh Palace,233800,False,"['Rihanna', 'JAY-Z', 'Lindbergh Palace']",True,12,1,Good Girl Gone Bad: The Remixes,Rihanna,spotify:track:5oWg1pM72PUl0ytKEot3LP,0.701,0.881,1,-3.276,1,0.0282,0.00151,6.12e-05,0.104,0.451,124.027,4
+39,Mad House,94480,True,['Rihanna'],False,1,1,Rated R,Rihanna,spotify:track:4oHkmDMdEHbd0f1xWqyFC7,0.306,0.591,9,-7.692,1,0.0578,0.000938,0.000175,0.163,0.293,70.159,4
+40,Wait Your Turn,226560,True,['Rihanna'],False,2,1,Rated R,Rihanna,spotify:track:59QZX1c9i8Sn1hdVEF6IUi,0.415,0.704,7,-4.883,0,0.0604,0.0777,0.0,0.36,0.451,139.822,4
+41,Hard,250600,True,"['Rihanna', 'Jeezy']",True,3,1,Rated R,Rihanna,spotify:track:3YJkAQNEhmCZGLdmPsu6Ye,0.31,0.746,1,-3.599,1,0.111,0.0121,0.0,0.649,0.163,182.032,4
+42,Stupid In Love,241440,True,['Rihanna'],False,4,1,Rated R,Rihanna,spotify:track:6Wiyd7AsRdXvXGrxNkbqQ1,0.738,0.562,0,-5.435,0,0.0347,0.633,0.0,0.102,0.476,127.452,3
+43,ROCKSTAR 101,238893,True,"['Rihanna', 'Slash']",True,5,1,Rated R,Rihanna,spotify:track:5rXDTihGQ3TkYE3pmraAmH,0.343,0.65,1,-4.624,1,0.0909,0.0299,0.0,0.646,0.315,170.697,5
+44,Russian Roulette,227533,True,['Rihanna'],False,6,1,Rated R,Rihanna,spotify:track:3rMsX63C0IZVnOT5LGYoTH,0.48,0.486,6,-5.754,0,0.0447,0.046,0.0,0.107,0.265,80.051,4
+45,Fire Bomb,257786,True,['Rihanna'],False,7,1,Rated R,Rihanna,spotify:track:2igOUypyg58AbiUPgrlPNN,0.561,0.847,5,-4.728,1,0.0446,0.13,0.0,0.151,0.443,149.909,4
+46,Rude Boy,222920,True,['Rihanna'],False,8,1,Rated R,Rihanna,spotify:track:60jzFy6Nn4M0iD1d94oteF,0.563,0.75,11,-4.496,1,0.127,0.113,0.0,0.0788,0.812,173.906,4
+47,Photographs,286360,True,"['Rihanna', 'will.i.am']",True,9,1,Rated R,Rihanna,spotify:track:4iywo4hJoh7MxFdMLFqYhN,0.696,0.632,11,-5.786,0,0.0323,0.136,0.0,0.123,0.399,130.155,4
+48,G4L,239800,True,['Rihanna'],False,10,1,Rated R,Rihanna,spotify:track:0gzpfUezy3wdktjC2SD1FY,0.36,0.721,7,-4.542,0,0.0448,0.071,0.0,0.382,0.216,137.783,4
+49,Te Amo,208426,True,['Rihanna'],False,11,1,Rated R,Rihanna,spotify:track:4YYHgF9dWyVSor0GtrBzdf,0.567,0.707,8,-5.455,0,0.0818,0.541,0.000176,0.1,0.751,171.917,4
+50,Cold Case Love,364520,True,['Rihanna'],False,12,1,Rated R,Rihanna,spotify:track:4MMOt2JI6OjKL9RPT97krd,0.437,0.443,8,-7.767,1,0.0339,0.0291,0.000325,0.111,0.121,90.135,4
+51,The Last Song,256173,True,['Rihanna'],False,13,1,Rated R,Rihanna,spotify:track:0llmtI6cBL8SomPTzAjtZ4,0.294,0.595,7,-5.307,0,0.0398,0.332,0.0,0.112,0.0996,130.857,4
+52,Mad House - Chew Fu Straight Jacket Fix,132720,True,"['Rihanna', 'Chew Fu']",True,1,1,Rated R: Remixed,Rihanna,spotify:track:0xosb9d4wbXTYJ2FIbUm0h,0.638,0.794,11,-7.006,0,0.41,0.0396,0.0996,0.425,0.447,129.258,4
+53,Russian Roulette - Chew Fu Black Russian Fix,355213,True,"['Rihanna', 'Chew Fu']",True,2,1,Rated R: Remixed,Rihanna,spotify:track:081sl4BpdkXcLciOJktR9y,0.666,0.755,6,-5.418,0,0.242,0.00448,0.283,0.147,0.546,130.036,4
+54,ROCKSTAR 101 - Chew Fu Teachers Pet Fix,267226,True,"['Rihanna', 'Chew Fu']",True,3,1,Rated R: Remixed,Rihanna,spotify:track:78YZdpDXVJozZzcUE4JZa4,0.808,0.741,6,-6.087,0,0.0554,0.00207,0.153,0.541,0.84,128.035,4
+55,Wait Your Turn - Chew Fu Can't Wait No More Fix,309293,True,"['Rihanna', 'Chew Fu']",True,4,1,Rated R: Remixed,Rihanna,spotify:track:4dyosL2M4UsLfHwvOs4RrF,0.785,0.817,7,-4.926,0,0.276,0.0405,9.89e-05,0.273,0.824,127.907,4
+56,Photographs - Chew Fu 35mm Fix,359613,True,"['Rihanna', 'will.i.am', 'Chew Fu']",True,5,1,Rated R: Remixed,Rihanna,spotify:track:4jOr9RdyQPV9uOWJxpwO5g,0.738,0.606,6,-7.158,0,0.265,0.0227,1.73e-06,0.0627,0.8,127.987,4
+57,Rude Boy - Chew Fu Vitamin S Fix,341573,True,"['Rihanna', 'Chew Fu']",True,6,1,Rated R: Remixed,Rihanna,spotify:track:2iMd8V7X5IhINZpVVJaMgY,0.446,0.755,3,-4.821,0,0.0544,0.0157,0.00384,0.393,0.228,147.849,4
+58,Hard - Chew Fu Granite Fix,328013,True,"['Rihanna', 'Jeezy', 'Chew Fu']",True,7,1,Rated R: Remixed,Rihanna,spotify:track:0SfYKR2DPK2IpJILbDIE1G,0.739,0.883,11,-5.611,0,0.229,0.00094,0.000777,0.0633,0.746,130.036,4
+59,G4L - Chew Fu Guns In The Air Fix,325946,True,"['Rihanna', 'Chew Fu']",True,8,1,Rated R: Remixed,Rihanna,spotify:track:0QiRDNlX6hVO3f2fa6Jf3e,0.677,0.772,2,-6.448,1,0.051,0.000559,0.119,0.269,0.753,129.035,4
+60,Fire Bomb - Chew Fu Molotov Fix,418520,True,"['Rihanna', 'Chew Fu']",True,9,1,Rated R: Remixed,Rihanna,spotify:track:7pI0BSkOux2TAXekXq1klO,0.727,0.749,9,-5.9,0,0.214,0.00318,6.05e-05,0.137,0.655,128.02,4
+61,Stupid In Love - Chew Fu Small Room Fix,332746,True,"['Rihanna', 'Chew Fu']",True,10,1,Rated R: Remixed,Rihanna,spotify:track:3amm7BQQgcC0PwhpNIiayb,0.863,0.691,5,-6.459,0,0.119,0.182,0.00837,0.0917,0.698,117.978,4
+62,SOS,238920,False,['Rihanna'],False,1,1,A Girl Like Me,Rihanna,spotify:track:30cSNer6TV8x2utjULVeQ5,0.677,0.671,7,-4.905,1,0.0361,0.004,5.07e-05,0.413,0.527,137.046,4
+63,Kisses Don't Lie,232880,False,['Rihanna'],False,2,1,A Girl Like Me,Rihanna,spotify:track:4iHglWXfdxUzr3th07fcM8,0.676,0.747,5,-4.926,0,0.118,0.0209,7.48e-05,0.152,0.91,77.979,4
+64,Unfaithful,226973,False,['Rihanna'],False,3,1,A Girl Like Me,Rihanna,spotify:track:13xxBnXOuiBxVxJI458B0i,0.588,0.391,0,-8.607,0,0.0334,0.839,0.0,0.227,0.349,144.069,4
+65,We Ride,236680,False,['Rihanna'],False,4,1,A Girl Like Me,Rihanna,spotify:track:0EIsxWGPSte4cAHZw5aXr4,0.394,0.744,5,-5.465,0,0.276,0.00175,0.0,0.308,0.772,78.696,4
+66,Dem Haters,257866,False,"['Rihanna', 'Dwane Husbands']",True,5,1,A Girl Like Me,Rihanna,spotify:track:7jP5dRMrHFQZblvBftHhbZ,0.727,0.594,11,-4.52,0,0.0908,0.0132,0.0,0.0301,0.467,82.015,4
+67,Final Goodbye,194200,False,['Rihanna'],False,6,1,A Girl Like Me,Rihanna,spotify:track:0KR7jNki49r2qg7o8D2zIB,0.512,0.463,4,-7.819,0,0.0285,0.0396,0.0,0.305,0.24,134.011,3
+68,Break It Off,213373,False,"['Rihanna', 'Sean Paul']",True,7,1,A Girl Like Me,Rihanna,spotify:track:4PgtB6Sul8WDTRZCe5e8St,0.897,0.738,10,-5.314,0,0.228,0.0166,0.0,0.0573,0.798,133.966,4
+69,Crazy Little Thing Called Love,202080,False,"['Rihanna', 'J-Status']",True,8,1,A Girl Like Me,Rihanna,spotify:track:2sc6MxpYcfgZHIxIlicbef,0.758,0.557,7,-6.223,1,0.112,0.0152,1.43e-06,0.108,0.751,79.98,4
+70,Selfish Girl,217173,False,['Rihanna'],False,9,1,A Girl Like Me,Rihanna,spotify:track:1lz9t9I3zArRacD2Pud76x,0.724,0.643,11,-4.981,0,0.0837,0.0023,0.00714,0.0633,0.737,82.012,4
+71,P.S. (I'm Still Not Over You),249906,False,['Rihanna'],False,10,1,A Girl Like Me,Rihanna,spotify:track:2vDZwEDKyiaKOsvEQbaRcQ,0.759,0.407,8,-8.427,0,0.0481,0.0803,0.0,0.104,0.496,88.081,4
+72,A Girl Like Me,256000,False,['Rihanna'],False,11,1,A Girl Like Me,Rihanna,spotify:track:7vtna7uCQMxYUM6sPx0L51,0.447,0.574,6,-6.993,1,0.12,0.274,0.0,0.0777,0.633,82.122,4
+73,A Million Miles Away,249680,False,['Rihanna'],False,12,1,A Girl Like Me,Rihanna,spotify:track:60mOfkGcqyS9UaRQsZ6e2C,0.566,0.363,2,-7.259,1,0.0285,0.482,0.0,0.292,0.0609,123.864,4
+74,If It's Lovin' That You Want - Pt. 2,248506,False,"['Rihanna', 'Cory Gunz']",True,13,1,A Girl Like Me,Rihanna,spotify:track:0CVAvbscJvgDMrCjIYdTUi,0.72,0.615,6,-8.224,1,0.161,0.485,2.53e-06,0.0829,0.642,96.072,4
+75,SOS,238920,False,['Rihanna'],False,1,1,A Girl Like Me,Rihanna,spotify:track:3sBmTwwsCwty2RNjOOvRVu,0.677,0.671,7,-4.905,1,0.0361,0.004,5.07e-05,0.413,0.527,137.046,4
+76,Kisses Don't Lie,232880,False,['Rihanna'],False,2,1,A Girl Like Me,Rihanna,spotify:track:7txbzh10pVBKZmRXSjYxmR,0.676,0.747,5,-4.926,0,0.118,0.0209,7.48e-05,0.152,0.91,77.979,4
+77,Unfaithful,226973,False,['Rihanna'],False,3,1,A Girl Like Me,Rihanna,spotify:track:1oh6hjPd82XlGFQGUh2Jfa,0.588,0.391,0,-8.607,0,0.0334,0.839,0.0,0.227,0.349,144.069,4
+78,We Ride,236680,False,['Rihanna'],False,4,1,A Girl Like Me,Rihanna,spotify:track:3e7aUCS2WvxoKx6LEDyOzh,0.394,0.744,5,-5.465,0,0.276,0.00175,0.0,0.308,0.772,78.696,4
+79,Dem Haters - Album Version 2,257866,False,"['Rihanna', 'Dwane Husbands']",True,5,1,A Girl Like Me,Rihanna,spotify:track:5sAF1nTwI5yQgTFOJt4va5,0.727,0.594,11,-4.52,0,0.0908,0.0132,0.0,0.0301,0.467,82.015,4
+80,Final Goodbye,194200,False,['Rihanna'],False,6,1,A Girl Like Me,Rihanna,spotify:track:3JjwpZtcIKUB1PuWkWFwhv,0.512,0.463,4,-7.819,0,0.0285,0.0396,0.0,0.305,0.24,134.011,3
+81,Break It Off,213373,False,"['Rihanna', 'Sean Paul']",True,7,1,A Girl Like Me,Rihanna,spotify:track:2osdbXkJFUwPBLiZ4gRaEv,0.897,0.738,10,-5.314,0,0.228,0.0166,0.0,0.0573,0.798,133.966,4
+82,Crazy Little Thing Called Love,202080,False,"['Rihanna', 'J-Status']",True,8,1,A Girl Like Me,Rihanna,spotify:track:5tXKUlGgXbUkr3cyT1ivWn,0.758,0.557,7,-6.223,1,0.112,0.0152,1.43e-06,0.108,0.751,79.98,4
+83,Selfish Girl,217173,False,['Rihanna'],False,9,1,A Girl Like Me,Rihanna,spotify:track:5fqRwaqk8OdNlcTdljwBuf,0.724,0.643,11,-4.981,0,0.0837,0.0023,0.00714,0.0633,0.737,82.012,4
+84,P.S. (I'm Still Not Over You),249906,False,['Rihanna'],False,10,1,A Girl Like Me,Rihanna,spotify:track:49Uz3voxLt1j858YkOKn5R,0.759,0.407,8,-8.427,0,0.0481,0.0803,0.0,0.104,0.496,88.081,4
+85,A Girl Like Me,256000,False,['Rihanna'],False,11,1,A Girl Like Me,Rihanna,spotify:track:53UymfuapLTAv8dGjOXrId,0.447,0.574,6,-6.993,1,0.12,0.274,0.0,0.0777,0.633,82.122,4
+86,A Million Miles Away,249680,False,['Rihanna'],False,12,1,A Girl Like Me,Rihanna,spotify:track:09U6PbyADhwuezLa2RgQ9r,0.566,0.363,2,-7.259,1,0.0285,0.482,0.0,0.292,0.0609,123.864,4
+87,If It's Lovin' That You Want - Pt. 2,248506,False,"['Rihanna', 'Cory Gunz']",True,13,1,A Girl Like Me,Rihanna,spotify:track:22YsipUaMKQecPUy6uRNQn,0.72,0.615,6,-8.224,1,0.161,0.485,2.53e-06,0.0829,0.642,96.072,4
+88,Pon de Replay - Full Phatt Remix,201226,False,"['Rihanna', 'Matt Ward', 'Dean Gillard']",True,14,1,A Girl Like Me,Rihanna,spotify:track:34fYK1svsTZnI0UfyW8WH3,0.822,0.557,8,-9.363,0,0.214,0.00421,0.0129,0.072,0.881,98.975,4
+89,Pon de Replay,246960,False,['Rihanna'],False,1,1,Music Of The Sun,Rihanna,spotify:track:4TsmezEQVSZNNPv5RJ65Ov,0.779,0.64,7,-8.415,1,0.159,0.000155,0.00077,0.101,0.498,99.019,4
+90,Here I Go Again,251133,False,"['Rihanna', 'J-Status']",True,2,1,Music Of The Sun,Rihanna,spotify:track:07gLSfLyr23jSKaUpRgR1B,0.681,0.611,5,-5.939,0,0.077,0.000332,0.00193,0.12,0.637,83.463,4
+91,If It's Lovin' That You Want,208106,False,['Rihanna'],False,3,1,Music Of The Sun,Rihanna,spotify:track:4x2rgtSFOI4hRvEvDj02KP,0.745,0.694,8,-7.519,1,0.128,0.0962,0.0,0.0454,0.74,95.924,4
+92,"You Don't Love Me (No, No, No)",260066,False,"['Rihanna', 'Vybz Kartel']",True,4,1,Music Of The Sun,Rihanna,spotify:track:7wWU3G8lAYNkro19o1wsBc,0.691,0.667,2,-6.496,1,0.0769,0.00632,4.46e-06,0.0816,0.611,84.008,4
+93,"That La, La, La",225866,False,['Rihanna'],False,5,1,Music Of The Sun,Rihanna,spotify:track:2JMgGr5NopZc83ECon8MBj,0.853,0.672,7,-5.996,0,0.391,0.222,1.41e-06,0.297,0.952,77.501,4
+94,The Last Time,293226,False,['Rihanna'],False,6,1,Music Of The Sun,Rihanna,spotify:track:2IRrmMVmjvWQjJGY8LNuk5,0.65,0.494,9,-7.021,0,0.0538,0.0232,0.0,0.104,0.114,111.68,4
+95,Willing To Wait,277973,False,['Rihanna'],False,7,1,Music Of The Sun,Rihanna,spotify:track:5b41vHKBfpyEbmkJu6wtlH,0.537,0.443,10,-8.407,0,0.107,0.0107,6.99e-05,0.166,0.281,84.597,4
+96,Music Of The Sun,236026,False,['Rihanna'],False,8,1,Music Of The Sun,Rihanna,spotify:track:3vPkkIsaQ5NqOqvj7Ht8kR,0.535,0.643,0,-8.182,1,0.155,0.112,0.0,0.281,0.632,171.884,4
+97,Let Me,236400,False,['Rihanna'],False,9,1,Music Of The Sun,Rihanna,spotify:track:4tAqWkqjX9bRSUpNcYviVf,0.753,0.771,5,-5.833,0,0.145,0.0541,0.000304,0.133,0.743,108.022,4
+98,Rush,189573,False,"['Rihanna', 'Kardinal Offishall']",True,10,1,Music Of The Sun,Rihanna,spotify:track:5NH2an2qR7M6ptHnxTfhP1,0.751,0.822,1,-4.533,1,0.164,0.001,0.0022,0.259,0.801,96.967,4
+99,There's A Thug In My Life,198640,False,"['Rihanna', 'J-Status']",True,11,1,Music Of The Sun,Rihanna,spotify:track:2O5rxPXXEFuvVfvsc85GX3,0.572,0.632,0,-7.742,1,0.109,0.00138,3.85e-06,0.102,0.572,161.786,4
+100,Now I Know,300586,False,['Rihanna'],False,12,1,Music Of The Sun,Rihanna,spotify:track:35Hibmn6fwoYVifZ9TKnWg,0.315,0.267,9,-11.355,1,0.0289,0.853,1.5e-06,0.204,0.22,104.987,3
+101,Pon De Replay - Remix,217186,False,"['Rihanna', 'Elephant Man']",True,13,1,Music Of The Sun,Rihanna,spotify:track:1B4iEymNy6FyU2I39ujzVw,0.778,0.737,7,-7.861,1,0.251,0.00031,0.0,0.276,0.582,99.078,4
+102,Dr. West - Skit,89546,True,['Eminem'],False,1,1,Relapse: Refill,Eminem,spotify:track:6KEO499uUuvv65wAfOltod,0.494,0.427,4,-11.725,1,0.36,0.406,8.16e-06,0.606,0.131,99.858,4
+103,3 a.m.,319853,True,['Eminem'],False,2,1,Relapse: Refill,Eminem,spotify:track:7Djpvy4lZJNI8rTOVLf1H7,0.75,0.831,4,-2.601,0,0.397,0.0603,0.0,0.0576,0.731,76.439,4
+104,My Mom,319866,True,['Eminem'],False,3,1,Relapse: Refill,Eminem,spotify:track:2ruw2Kq8lgyqwemZik9bUg,0.812,0.88,1,-1.521,1,0.259,0.295,0.0,0.106,0.778,90.098,4
+105,Insane,181360,True,['Eminem'],False,4,1,Relapse: Refill,Eminem,spotify:track:6x1stxDsnh4ZlEft29uhlR,0.876,0.878,9,-0.929,0,0.168,0.251,0.0,0.321,0.677,97.99,4
+106,Bagpipes From Baghdad,283066,True,['Eminem'],False,5,1,Relapse: Refill,Eminem,spotify:track:1d5jcRB7Ri9ZA0sFh1Moke,0.74,0.915,5,-2.472,0,0.211,0.104,0.0,0.0853,0.382,93.035,4
+107,Hello,248200,True,['Eminem'],False,6,1,Relapse: Refill,Eminem,spotify:track:7wuY9kPzREAC9OR7KScoli,0.862,0.936,10,-5.782,0,0.189,0.149,0.0,0.551,0.718,96.0,4
+108,Tonya - Skit,42226,True,['Eminem'],False,7,1,Relapse: Refill,Eminem,spotify:track:1meOg8wHrLsxqD4mwW2YM2,0.574,0.969,6,-4.41,1,0.332,0.294,0.0,0.458,0.168,78.238,4
+109,Same Song & Dance,246640,True,['Eminem'],False,8,1,Relapse: Refill,Eminem,spotify:track:1NcKKXrDTdCMaiVJkEknqr,0.808,0.721,10,-4.685,0,0.228,0.127,0.0,0.36,0.213,101.982,4
+110,We Made You,269613,False,['Eminem'],False,9,1,Relapse: Refill,Eminem,spotify:track:4UMTp91LHhvW33ol9ZQH0Q,0.924,0.853,2,-1.203,1,0.0792,0.107,1.45e-06,0.129,0.67,114.003,4
+111,Medicine Ball,237346,True,['Eminem'],False,10,1,Relapse: Refill,Eminem,spotify:track:2cgZkUVmNJeJZFLEAyh5Qj,0.776,0.943,1,-2.559,1,0.257,0.105,0.0,0.212,0.695,119.858,5
+112,Paul - Skit,19400,True,['Eminem'],False,11,1,Relapse: Refill,Eminem,spotify:track:3xnIYtj7GS6WTXshdsb1uG,0.82,0.41,0,-18.202,1,0.932,0.955,0.0,0.762,0.421,97.199,3
+113,Stay Wide Awake,319973,True,['Eminem'],False,12,1,Relapse: Refill,Eminem,spotify:track:36YlVLEV1f2qredBFj8o2y,0.747,0.851,10,-3.35,0,0.274,0.196,0.0,0.258,0.629,75.16,4
+114,Old Time's Sake,278160,True,"['Eminem', 'Dr. Dre']",True,13,1,Relapse: Refill,Eminem,spotify:track:5j6ODxGVhAWeCS49bBKuxz,0.775,0.829,1,-1.933,1,0.304,0.0606,0.0,0.33,0.836,176.047,4
+115,Must Be The Ganja,242906,True,['Eminem'],False,14,1,Relapse: Refill,Eminem,spotify:track:5PVv4YALJruehQKyAlwjfE,0.728,0.801,1,0.161,1,0.297,0.322,0.0,0.244,0.794,82.657,4
+116,Mr. Mathers - Skit,42386,False,['Eminem'],False,15,1,Relapse: Refill,Eminem,spotify:track:3LLEtMyr9j3evyA9xr8WzL,0.426,0.691,2,-6.962,1,0.265,0.179,0.0,0.702,0.472,172.009,3
+117,Deja Vu,283520,True,['Eminem'],False,16,1,Relapse: Refill,Eminem,spotify:track:0FDjc7fIiK29BWH45Ka7Vp,0.7,0.873,4,-1.88,0,0.208,0.208,0.0,0.229,0.571,84.023,4
+118,Beautiful,392826,True,['Eminem'],False,17,1,Relapse: Refill,Eminem,spotify:track:1HR2CTi0ytRJIcik1QKdOa,0.727,0.696,5,-4.472,0,0.0706,0.251,0.0,0.0726,0.467,132.077,4
+119,Crack A Bottle,297520,True,"['Eminem', 'Dr. Dre', '50 Cent']",True,18,1,Relapse: Refill,Eminem,spotify:track:4dK00wCxlqWEeN8BoM1BHT,0.516,0.874,9,-2.571,1,0.186,0.0864,0.0,0.173,0.391,169.561,3
+120,Steve Berman - Skit,89186,True,['Eminem'],False,19,1,Relapse: Refill,Eminem,spotify:track:3EJr3SxeW73TN03mJXdCqG,0.762,0.445,4,-14.079,0,0.924,0.587,0.0,0.881,0.755,95.286,1
+121,Underground,371453,True,['Eminem'],False,20,1,Relapse: Refill,Eminem,spotify:track:4jpi8FljkAwKFb4ljWuar6,0.632,0.807,10,-3.489,0,0.409,0.126,0.0,0.568,0.55,107.316,4
+122,Forever,357706,True,"['Drake', 'Kanye West', 'Lil Wayne', 'Eminem']",True,1,2,Relapse: Refill,Eminem,spotify:track:5UsLjwBaTHBX4ektWIr4XX,0.457,0.906,5,-2.278,0,0.342,0.249,0.0,0.182,0.54,104.02,5
+123,Hell Breaks Loose,244160,True,"['Eminem', 'Dr. Dre']",True,2,2,Relapse: Refill,Eminem,spotify:track:0FXfAepEmqVCMnvOpb8Hoj,0.57,0.883,10,-3.099,0,0.219,0.129,0.0,0.0949,0.911,78.887,4
+124,Buffalo Bill,236840,True,['Eminem'],False,3,2,Relapse: Refill,Eminem,spotify:track:3lSQAn6cmWfYfwuTJry44m,0.549,0.883,10,-3.858,0,0.403,0.0208,0.0,0.237,0.702,175.882,4
+125,Elevator,292933,True,['Eminem'],False,4,2,Relapse: Refill,Eminem,spotify:track:26rUU3JZ9JB9OkEuG9mb3e,0.796,0.793,7,-3.911,1,0.318,0.323,0.0,0.332,0.556,90.51,4
+126,Taking My Ball,302586,True,['Eminem'],False,5,2,Relapse: Refill,Eminem,spotify:track:3uO4rUJSyoyeh16KkVdxHy,0.69,0.875,1,-3.189,1,0.081,0.00517,0.0,0.184,0.552,90.953,4
+127,Music Box,304906,True,['Eminem'],False,6,2,Relapse: Refill,Eminem,spotify:track:1PokNDiTBQZgXci6rn2BVE,0.635,0.712,4,-5.151,0,0.11,0.0131,0.0,0.187,0.458,78.598,4
+128,Drop The Bomb On 'Em,287266,True,['Eminem'],False,7,2,Relapse: Refill,Eminem,spotify:track:4KxiDMQBLiHZ0efSyvVsKc,0.892,0.693,11,-4.048,0,0.215,0.0277,0.0,0.123,0.357,91.989,4
+129,My Darling,319906,True,['Eminem'],False,8,2,Relapse: Refill,Eminem,spotify:track:30kY0saQlvZ6tAJWhlDf6h,0.511,0.79,4,-6.592,1,0.449,0.319,0.0,0.265,0.456,170.903,4
+130,Careful What You Wish For,227186,True,['Eminem'],False,9,2,Relapse: Refill,Eminem,spotify:track:4R2ibsoF3A9Tv64DjEfyj9,0.634,0.601,6,-5.614,0,0.429,0.141,0.0,0.326,0.601,68.423,1
+131,Dr. West - Skit,89546,True,['Eminem'],False,1,1,Relapse,Eminem,spotify:track:2gCU2bAtDSG0lO0GDu7sQG,0.494,0.427,4,-11.725,1,0.36,0.406,8.16e-06,0.606,0.131,99.858,4
+132,3 a.m.,319853,True,['Eminem'],False,2,1,Relapse,Eminem,spotify:track:5XPtxe7eKdHt3vWJcUawYj,0.75,0.831,4,-2.601,0,0.397,0.0603,0.0,0.0576,0.731,76.439,4
+133,My Mom,319866,True,['Eminem'],False,3,1,Relapse,Eminem,spotify:track:5XhXt7kcM4rSvo03faDAjY,0.812,0.88,1,-1.521,1,0.259,0.295,0.0,0.106,0.778,90.098,4
+134,Insane,181360,True,['Eminem'],False,4,1,Relapse,Eminem,spotify:track:5bfTQCLA1asTt8dGiAh564,0.876,0.878,9,-0.929,0,0.168,0.251,0.0,0.321,0.677,97.99,4
+135,Bagpipes From Baghdad,283066,True,['Eminem'],False,5,1,Relapse,Eminem,spotify:track:7p2IHAUjqctj4AqZ2QKnPF,0.74,0.915,5,-2.472,0,0.211,0.104,0.0,0.0853,0.382,93.035,4
+136,Hello,248200,True,['Eminem'],False,6,1,Relapse,Eminem,spotify:track:6yE9LZDnjotlcr1gACxnmh,0.862,0.936,10,-5.782,0,0.189,0.149,0.0,0.551,0.718,96.0,4
+137,Tonya - Skit,42226,True,['Eminem'],False,7,1,Relapse,Eminem,spotify:track:4P2QrYVoz8zd6NHcD5aERc,0.574,0.969,6,-4.41,1,0.332,0.294,0.0,0.458,0.168,78.238,4
+138,Same Song & Dance,246640,True,['Eminem'],False,8,1,Relapse,Eminem,spotify:track:2hxm7xa1RxJ2z7brYTsAYd,0.808,0.721,10,-4.685,0,0.228,0.127,0.0,0.36,0.213,101.982,4
+139,We Made You,269613,False,['Eminem'],False,9,1,Relapse,Eminem,spotify:track:4tUTnCBft9qif7mlm51zFK,0.924,0.853,2,-1.203,1,0.0792,0.107,1.45e-06,0.129,0.67,114.003,4
+140,Medicine Ball,237346,True,['Eminem'],False,10,1,Relapse,Eminem,spotify:track:2s1nxW4nd7N8bS946VwRaG,0.776,0.943,1,-2.559,1,0.257,0.105,0.0,0.212,0.695,119.858,5
+141,Paul - Skit,19400,True,['Eminem'],False,11,1,Relapse,Eminem,spotify:track:7dmktmaBIKmApz9SCBRkAY,0.82,0.41,0,-18.202,1,0.932,0.955,0.0,0.762,0.421,97.199,3
+142,Stay Wide Awake,319973,True,['Eminem'],False,12,1,Relapse,Eminem,spotify:track:1cpGp4Ow7HaiNfsnDaHcmU,0.747,0.851,10,-3.35,0,0.274,0.196,0.0,0.258,0.629,75.16,4
+143,Old Time's Sake,278160,True,"['Eminem', 'Dr. Dre']",True,13,1,Relapse,Eminem,spotify:track:22PJPy3Xf2EruWEeqNEOFH,0.775,0.829,1,-1.933,1,0.304,0.0606,0.0,0.33,0.836,176.047,4
+144,Must Be The Ganja,242906,True,['Eminem'],False,14,1,Relapse,Eminem,spotify:track:0g6Wn9gocuOVr72Yaf8UBF,0.728,0.801,1,0.161,1,0.297,0.322,0.0,0.244,0.794,82.657,4
+145,Mr. Mathers - Skit,42386,False,['Eminem'],False,15,1,Relapse,Eminem,spotify:track:44W1NE0glj9Yf72y2EtckP,0.426,0.691,2,-6.962,1,0.265,0.179,0.0,0.702,0.472,172.009,3
+146,Deja Vu,283520,True,['Eminem'],False,16,1,Relapse,Eminem,spotify:track:7utC1F1aaearq1u9qS9kQT,0.7,0.873,4,-1.88,0,0.208,0.208,0.0,0.229,0.571,84.023,4
+147,Beautiful,392826,True,['Eminem'],False,17,1,Relapse,Eminem,spotify:track:7DDxxhExUBH53SFJqXDz4i,0.727,0.696,5,-4.472,0,0.0706,0.251,0.0,0.0726,0.467,132.077,4
+148,Crack A Bottle,297520,True,"['Eminem', 'Dr. Dre', '50 Cent']",True,18,1,Relapse,Eminem,spotify:track:360TPORPNBas8DeQueJe67,0.516,0.874,9,-2.571,1,0.186,0.0864,0.0,0.173,0.391,169.561,3
+149,Steve Berman - Skit,89186,True,['Eminem'],False,19,1,Relapse,Eminem,spotify:track:4UAhK697YenvIOPd2EY5UZ,0.762,0.445,4,-14.079,0,0.924,0.587,0.0,0.881,0.755,95.286,1
+150,Underground,371453,True,['Eminem'],False,20,1,Relapse,Eminem,spotify:track:54iuNoey1HTIM0yNg0CMXj,0.632,0.807,10,-3.489,0,0.409,0.126,0.0,0.568,0.55,107.316,4
+151,Dr. West - Skit,89546,True,['Eminem'],False,1,1,Relapse [Deluxe],Eminem,spotify:track:4SWBRCv6bElxKD6lTH5rzv,0.494,0.427,4,-11.725,1,0.36,0.406,8.16e-06,0.606,0.131,99.858,4
+152,3 a.m.,319853,True,['Eminem'],False,2,1,Relapse [Deluxe],Eminem,spotify:track:5aVrh0V1bpJ4YEGXfCD3Yz,0.75,0.831,4,-2.601,0,0.397,0.0603,0.0,0.0576,0.731,76.439,4
+153,My Mom,319866,True,['Eminem'],False,3,1,Relapse [Deluxe],Eminem,spotify:track:0u0k7qQ5F5lzTf5rsnWY8v,0.812,0.88,1,-1.521,1,0.259,0.295,0.0,0.106,0.778,90.098,4
+154,Insane,181360,True,['Eminem'],False,4,1,Relapse [Deluxe],Eminem,spotify:track:1E87Nt1EgdYm5uYOw8rtlr,0.876,0.878,9,-0.929,0,0.168,0.251,0.0,0.321,0.677,97.99,4
+155,Bagpipes From Baghdad,283066,True,['Eminem'],False,5,1,Relapse [Deluxe],Eminem,spotify:track:5SyedOgBgBwH41jSHfwBy9,0.74,0.915,5,-2.472,0,0.211,0.104,0.0,0.0853,0.382,93.035,4
+156,Hello,248200,True,['Eminem'],False,6,1,Relapse [Deluxe],Eminem,spotify:track:692nbKgOdtHeLoDC86eif9,0.862,0.936,10,-5.782,0,0.189,0.149,0.0,0.551,0.718,96.0,4
+157,Tonya - Skit,42213,True,['Eminem'],False,7,1,Relapse [Deluxe],Eminem,spotify:track:55coagNhSktoKAOgdNkkys,0.573,0.969,6,-4.41,1,0.344,0.296,0.0,0.442,0.169,78.28,4
+158,Same Song & Dance,246653,True,['Eminem'],False,8,1,Relapse [Deluxe],Eminem,spotify:track:0Gfe0uC41xaBjxWoGrxeHT,0.789,0.699,10,-4.702,0,0.268,0.131,0.0,0.381,0.209,101.971,4
+159,We Made You,269613,False,['Eminem'],False,9,1,Relapse [Deluxe],Eminem,spotify:track:6pVGvA806ARxVIZfcJxWHd,0.924,0.853,2,-1.203,1,0.0792,0.107,1.45e-06,0.129,0.67,114.003,4
+160,Medicine Ball,237333,True,['Eminem'],False,10,1,Relapse [Deluxe],Eminem,spotify:track:6lwgqGc6R6WyOQ62lkxrH7,0.776,0.943,1,-2.559,1,0.257,0.105,0.0,0.203,0.695,119.864,5
+161,Paul - Skit,19413,True,['Eminem'],False,11,1,Relapse [Deluxe],Eminem,spotify:track:18BwdYsOC2qKpBBsnYYYFz,0.779,0.403,3,-18.333,1,0.935,0.953,0.0,0.764,0.419,84.573,5
+162,Stay Wide Awake,319973,True,['Eminem'],False,12,1,Relapse [Deluxe],Eminem,spotify:track:4tlXDIipd1IuJHKXW5Z32h,0.747,0.851,10,-3.35,0,0.274,0.196,0.0,0.258,0.629,75.16,4
+163,Old Time's Sake,278160,True,"['Eminem', 'Dr. Dre']",True,13,1,Relapse [Deluxe],Eminem,spotify:track:5CwFNjik3qxA7SPNMF093f,0.775,0.829,1,-1.933,1,0.304,0.0606,0.0,0.33,0.836,176.047,4
+164,Must Be The Ganja,242906,True,['Eminem'],False,14,1,Relapse [Deluxe],Eminem,spotify:track:193EZtB9RHLTl1bFVyyjib,0.728,0.801,1,0.161,1,0.297,0.322,0.0,0.244,0.794,82.657,4
+165,Mr. Mathers - Skit,42386,False,['Eminem'],False,15,1,Relapse [Deluxe],Eminem,spotify:track:6rkryGkq0HTIwDokX6yeo9,0.426,0.691,2,-6.962,1,0.265,0.179,0.0,0.702,0.472,172.009,3
+166,Deja Vu,283520,True,['Eminem'],False,16,1,Relapse [Deluxe],Eminem,spotify:track:5Mo51IWW49vhISzDLs4CqU,0.7,0.873,4,-1.88,0,0.208,0.208,0.0,0.229,0.571,84.023,4
+167,Beautiful,392826,True,['Eminem'],False,17,1,Relapse [Deluxe],Eminem,spotify:track:6XaqawNmeeScjVLAv4Fx6l,0.727,0.696,5,-4.472,0,0.0706,0.251,0.0,0.0726,0.467,132.077,4
+168,Crack A Bottle,297520,True,"['Eminem', 'Dr. Dre', '50 Cent']",True,18,1,Relapse [Deluxe],Eminem,spotify:track:5ac5PpvqGeVo3oAq26aobC,0.516,0.874,9,-2.571,1,0.186,0.0864,0.0,0.173,0.391,169.561,3
+169,Steve Berman - Skit,89186,True,['Eminem'],False,19,1,Relapse [Deluxe],Eminem,spotify:track:5VbV6BeCzuT8He3O2679l5,0.762,0.445,4,-14.079,0,0.924,0.587,0.0,0.881,0.755,95.286,1
+170,Underground,371280,True,['Eminem'],False,20,1,Relapse [Deluxe],Eminem,spotify:track:33yv9M5Mnh48D4SvoOSeFO,0.631,0.807,10,-3.489,0,0.409,0.126,0.0,0.568,0.55,106.988,4
+171,My Darling,320426,True,['Eminem'],False,21,1,Relapse [Deluxe],Eminem,spotify:track:1SM95qTgtKZ20w5sw3OAXc,0.622,0.793,4,-6.558,1,0.367,0.296,0.0,0.184,0.487,62.88,3
+172,Careful What You Wish For,227173,True,['Eminem'],False,22,1,Relapse [Deluxe],Eminem,spotify:track:0fmBl9B10gwAna3YN4MnU6,0.746,0.609,6,-5.623,0,0.372,0.137,0.0,0.328,0.591,82.478,4
+173,Curtains Up,46866,True,['Eminem'],False,1,1,Encore,Eminem,spotify:track:2nT5m433s95hvYJH4S7ont,0.306,0.724,9,-18.799,0,0.0897,0.48,0.000982,0.935,0.0269,114.923,3
+174,Evil Deeds,259573,True,['Eminem'],False,2,1,Encore,Eminem,spotify:track:0MhkjuQtv0JyIPZ8MEUMCq,0.731,0.686,11,-5.002,0,0.33,0.0915,0.0,0.415,0.29,75.54,4
+175,Never Enough,159786,True,"['Eminem', '50 Cent', 'Nate Dogg']",True,3,1,Encore,Eminem,spotify:track:3sQ8aCVA5Bsw7WHa7XpDWr,0.777,0.716,11,-5.327,1,0.347,0.294,0.0,0.665,0.593,95.756,4
+176,Yellow Brick Road,346253,True,['Eminem'],False,4,1,Encore,Eminem,spotify:track:6JLU84OHXJ582y0PWRIYba,0.766,0.818,9,-3.545,0,0.249,0.293,9.39e-05,0.205,0.776,84.466,4
+177,Like Toy Soldiers,296880,True,['Eminem'],False,5,1,Encore,Eminem,spotify:track:4csWODGWQtsQwKc7ukTvs6,0.52,0.768,8,-3.489,0,0.359,0.0193,0.00034,0.104,0.398,79.178,4
+178,Mosh,317813,True,['Eminem'],False,6,1,Encore,Eminem,spotify:track:78R9km7Q1QTC37XUSq7lFT,0.625,0.719,10,-3.326,0,0.24,0.672,0.0,0.7,0.524,72.532,4
+179,Puke,247826,True,['Eminem'],False,7,1,Encore,Eminem,spotify:track:5A6ilRXHqsGBPrcY9JJoRJ,0.763,0.783,4,-4.601,0,0.222,0.136,0.0,0.0412,0.529,81.975,4
+180,My 1st Single,302840,True,['Eminem'],False,8,1,Encore,Eminem,spotify:track:2XwcKN1muqa3rXgwAQiXrL,0.833,0.949,4,-3.082,0,0.182,0.0553,0.0251,0.14,0.907,170.009,4
+181,Paul - Skit,32026,True,['Eminem'],False,9,1,Encore,Eminem,spotify:track:7r7thr1ZEdG6kZJyTevfaR,0.77,0.234,8,-16.867,0,0.783,0.987,0.0,0.634,0.788,60.286,4
+182,Rain Man,313946,True,['Eminem'],False,10,1,Encore,Eminem,spotify:track:6iXYSQWhN9EuHWgRGRI6WL,0.836,0.494,9,-3.506,0,0.253,0.0968,0.0,0.078,0.456,88.04,4
+183,Big Weenie,266933,True,['Eminem'],False,11,1,Encore,Eminem,spotify:track:3I1RTasRwkWepr6AfUMxW0,0.622,0.539,1,-4.331,1,0.502,0.242,0.0,0.107,0.315,173.662,4
+184,Em Calls Paul - Skit,71746,True,['Eminem'],False,12,1,Encore,Eminem,spotify:track:5eOti2JOjynFuZ0ZPkMBK8,0.63,0.371,7,-17.591,1,0.449,0.993,0.0013,0.487,0.177,97.191,5
+185,Just Lose It,248680,True,['Eminem'],False,13,1,Encore,Eminem,spotify:track:35gqchrol8FU9YYcZguuCL,0.94,0.633,8,-3.56,1,0.0467,0.0581,4.04e-05,0.281,0.962,121.003,4
+186,Ass Like That,265480,True,['Eminem'],False,14,1,Encore,Eminem,spotify:track:0avjVeujL8PYfm8tKKszLH,0.646,0.796,2,-6.152,1,0.366,0.409,0.0,0.107,0.676,83.093,4
+187,Spend Some Time,310720,True,"['Eminem', 'Obie Trice', 'Stat Quo', '50 Cent']",True,15,1,Encore,Eminem,spotify:track:3unvrmw7SW5oIVLSsJ7bat,0.695,0.61,5,-5.133,1,0.228,0.0561,1.19e-05,0.123,0.133,83.659,4
+188,Mockingbird,250760,True,['Eminem'],False,16,1,Encore,Eminem,spotify:track:0JtIWgsblOvJfpoyhGkFuS,0.637,0.678,0,-3.798,1,0.266,0.209,0.0,0.156,0.254,84.039,4
+189,Crazy In Love,242306,True,['Eminem'],False,17,1,Encore,Eminem,spotify:track:3ujYGOyZTnclO5vDp1qZBJ,0.679,0.732,4,-6.583,0,0.246,0.0221,0.0,0.127,0.775,80.003,4
+190,One Shot 2 Shot,266573,True,"['Eminem', 'D12']",True,18,1,Encore,Eminem,spotify:track:1pdR7N8sTiKh93IcG7Ou51,0.885,0.61,1,-6.266,1,0.225,0.194,0.0,0.278,0.822,98.974,4
+191,Final Thought - Skit,30200,True,['Eminem'],False,19,1,Encore,Eminem,spotify:track:3l7JgsKSK2GSbquX2UJAwm,0.546,0.465,7,-24.404,1,0.136,0.00403,0.14,0.439,0.481,125.684,4
+192,Encore/Curtains Down,348400,True,['Eminem'],False,20,1,Encore,Eminem,spotify:track:2b4zzYE453ThfmXcnicgow,0.605,0.747,5,-5.574,0,0.397,0.0838,0.0,0.462,0.565,173.951,4
+193,Curtains Up,46866,True,['Eminem'],False,1,1,Encore (Deluxe Version),Eminem,spotify:track:6NGRgJjvgUF9V4VXbWgS26,0.306,0.724,9,-18.799,0,0.0897,0.48,0.000982,0.935,0.0269,114.923,3
+194,Evil Deeds,259573,True,['Eminem'],False,2,1,Encore (Deluxe Version),Eminem,spotify:track:3bp0Zuc7LMxgjqsQ6q3E8y,0.731,0.686,11,-5.002,0,0.33,0.0915,0.0,0.415,0.29,75.54,4
+195,Never Enough,159786,True,"['Eminem', '50 Cent', 'Nate Dogg']",True,3,1,Encore (Deluxe Version),Eminem,spotify:track:5CsDo9j3N4yFZNCN1h9loS,0.777,0.716,11,-5.327,1,0.347,0.294,0.0,0.665,0.593,95.756,4
+196,Yellow Brick Road,346253,True,['Eminem'],False,4,1,Encore (Deluxe Version),Eminem,spotify:track:0pMUgJwp0a7Wxypy8xfmMO,0.766,0.818,9,-3.545,0,0.249,0.293,9.39e-05,0.205,0.776,84.466,4
+197,Like Toy Soldiers,296880,True,['Eminem'],False,5,1,Encore (Deluxe Version),Eminem,spotify:track:6CN3e26iQSj1N5lomh0mfO,0.52,0.768,8,-3.489,0,0.359,0.0193,0.00034,0.104,0.398,79.178,4
+198,Mosh,317813,True,['Eminem'],False,6,1,Encore (Deluxe Version),Eminem,spotify:track:07EHYORZMFGlBdI5zIB7lp,0.625,0.719,10,-3.326,0,0.24,0.672,0.0,0.7,0.524,72.532,4
+199,Puke,247826,True,['Eminem'],False,7,1,Encore (Deluxe Version),Eminem,spotify:track:5F94xbz85nE6wfZGHqOMCG,0.763,0.783,4,-4.601,0,0.222,0.136,0.0,0.0412,0.529,81.975,4
+200,My 1st Single,302840,True,['Eminem'],False,8,1,Encore (Deluxe Version),Eminem,spotify:track:1dFnMC9NlHVUE4rlT5vr83,0.833,0.949,4,-3.082,0,0.182,0.0553,0.0251,0.14,0.907,170.009,4
+201,Paul - Skit,32026,True,['Eminem'],False,9,1,Encore (Deluxe Version),Eminem,spotify:track:2FPtJP6CQ68hOTHt0OysXC,0.77,0.234,8,-16.867,0,0.783,0.987,0.0,0.634,0.788,60.286,4
+202,Rain Man,313946,True,['Eminem'],False,10,1,Encore (Deluxe Version),Eminem,spotify:track:2AuU35arXZdYoscOIxHWSc,0.836,0.494,9,-3.506,0,0.253,0.0968,0.0,0.078,0.456,88.04,4
+203,Big Weenie,266933,True,['Eminem'],False,11,1,Encore (Deluxe Version),Eminem,spotify:track:4dh34dyav8M5jCN3yidn8Z,0.622,0.539,1,-4.331,1,0.502,0.242,0.0,0.107,0.315,173.662,4
+204,Em Calls Paul - Skit,71746,True,['Eminem'],False,12,1,Encore (Deluxe Version),Eminem,spotify:track:62c1RhroaeTVV7yGKBIBne,0.63,0.371,7,-17.591,1,0.449,0.993,0.0013,0.487,0.177,97.191,5
+205,Just Lose It,248680,True,['Eminem'],False,13,1,Encore (Deluxe Version),Eminem,spotify:track:0qcjuYtMWhBjXg0Xwt5SzS,0.94,0.633,8,-3.56,1,0.0467,0.0581,4.04e-05,0.281,0.962,121.003,4
+206,Ass Like That,265480,True,['Eminem'],False,14,1,Encore (Deluxe Version),Eminem,spotify:track:4gXdMZkBN1neE9nX6yRALa,0.646,0.796,2,-6.152,1,0.366,0.409,0.0,0.107,0.676,83.093,4
+207,Spend Some Time,310720,True,"['Eminem', 'Obie Trice', 'Stat Quo', '50 Cent']",True,15,1,Encore (Deluxe Version),Eminem,spotify:track:1mHRciKUBSGQml3mQFGMsf,0.695,0.61,5,-5.133,1,0.228,0.0561,1.19e-05,0.123,0.133,83.659,4
+208,Mockingbird,250760,True,['Eminem'],False,16,1,Encore (Deluxe Version),Eminem,spotify:track:561jH07mF1jHuk7KlaeF0s,0.637,0.678,0,-3.798,1,0.266,0.209,0.0,0.156,0.254,84.039,4
+209,Crazy In Love,242306,True,['Eminem'],False,17,1,Encore (Deluxe Version),Eminem,spotify:track:0bCCMwWTaYOcQ4v8EeEYmd,0.679,0.732,4,-6.583,0,0.246,0.0221,0.0,0.127,0.775,80.003,4
+210,One Shot 2 Shot,266573,True,"['Eminem', 'D12']",True,18,1,Encore (Deluxe Version),Eminem,spotify:track:15ZNcgzsiiSrLQAGzl3le9,0.885,0.61,1,-6.266,1,0.225,0.194,0.0,0.278,0.822,98.974,4
+211,Final Thought - Skit,30200,True,['Eminem'],False,19,1,Encore (Deluxe Version),Eminem,spotify:track:6h3tuNzfvZHyPPCSndsw2u,0.546,0.465,7,-24.404,1,0.136,0.00403,0.14,0.439,0.481,125.684,4
+212,Encore/Curtains Down,348400,True,['Eminem'],False,20,1,Encore (Deluxe Version),Eminem,spotify:track:2cm5JHPVzXyrWPtIZZi1Gh,0.605,0.747,5,-5.574,0,0.397,0.0838,0.0,0.462,0.565,173.951,4
+213,We As Americans,276320,True,['Eminem'],False,1,2,Encore (Deluxe Version),Eminem,spotify:track:6BdYOvKVbLsNFg674QJbRF,0.749,0.576,1,-6.935,0,0.46,0.132,0.0,0.125,0.394,170.614,4
+214,Love You More,284120,True,['Eminem'],False,2,2,Encore (Deluxe Version),Eminem,spotify:track:2PFqkLmTU9k5CNLN6jMMmr,0.837,0.604,2,-8.131,1,0.0897,0.0475,0.0163,0.0999,0.302,93.238,4
+215,Ricky Ticky Toc,169586,True,['Eminem'],False,3,2,Encore (Deluxe Version),Eminem,spotify:track:27eOHLIdWzqzZawiRSEi9s,0.727,0.606,0,-4.843,1,0.412,0.0315,2.15e-06,0.176,0.52,172.068,4
+216,Curtains Up - Skit,29826,True,['Eminem'],False,1,1,The Eminem Show,Eminem,spotify:track:0ttF21hZCPw2merE3GsHcP,0.378,0.122,2,-19.785,1,0.036,0.00697,0.958,0.125,0.0313,81.519,4
+217,White America,324546,True,['Eminem'],False,2,1,The Eminem Show,Eminem,spotify:track:15qrWkkYCfmtu1uRpGf48L,0.558,0.615,1,-5.641,1,0.229,0.0103,0.0,0.105,0.16,76.673,4
+218,Business,251720,True,['Eminem'],False,3,1,The Eminem Show,Eminem,spotify:track:0x60P5taxdI5pcGbqbap6S,0.901,0.813,7,-4.509,1,0.199,0.0325,1.09e-05,0.144,0.502,96.442,4
+219,Cleanin' Out My Closet,297840,True,['Eminem'],False,4,1,The Eminem Show,Eminem,spotify:track:7BMO7O7ImjV8HNTH74Tshv,0.908,0.758,9,-4.753,0,0.174,0.0687,0.0,0.0783,0.87,148.015,4
+220,Square Dance,323720,True,['Eminem'],False,5,1,The Eminem Show,Eminem,spotify:track:27mgDrExPa3obPAYXd3yQg,0.763,0.675,5,-1.797,0,0.223,0.0307,0.0,0.0876,0.724,82.0,4
+221,The Kiss - Skit,75920,True,['Eminem'],False,6,1,The Eminem Show,Eminem,spotify:track:2J3CYFUn6eAuHz5S9IKape,0.469,0.451,10,-13.949,0,0.404,0.193,1.62e-06,0.393,0.565,89.185,4
+222,Soldier,226213,True,['Eminem'],False,7,1,The Eminem Show,Eminem,spotify:track:5QD28FqaM3jTfsqWwvRZwv,0.851,0.92,8,-2.989,1,0.201,0.0319,0.000525,0.128,0.545,94.516,4
+223,Say Goodbye Hollywood,272840,True,['Eminem'],False,8,1,The Eminem Show,Eminem,spotify:track:288e3FhmVuCqPmNEfAH0h6,0.717,0.664,9,-5.023,0,0.205,0.0529,0.0,0.096,0.717,94.331,4
+224,Drips,285640,True,"['Eminem', 'Obie Trice']",True,9,1,The Eminem Show,Eminem,spotify:track:7io19rjxOFu3pGuZgBI6Pk,0.813,0.687,8,-4.85,1,0.298,0.0346,0.0,0.0878,0.666,83.944,4
+225,Without Me,290320,True,['Eminem'],False,10,1,The Eminem Show,Eminem,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4
+226,Paul Rosenberg - Skit,22746,True,['Eminem'],False,11,1,The Eminem Show,Eminem,spotify:track:0EgkVzDidmq4MP57jZFeik,0.74,0.266,1,-17.222,1,0.947,0.986,0.0,0.508,0.963,70.633,3
+227,Sing For The Moment,339546,True,['Eminem'],False,12,1,The Eminem Show,Eminem,spotify:track:3CpoeW0cZSDzIRv5z34F87,0.668,0.824,5,-4.164,0,0.137,0.0017,3.05e-06,0.0426,0.185,163.961,4
+228,Superman,350320,True,"['Eminem', 'Dina Rae']",True,13,1,The Eminem Show,Eminem,spotify:track:4woTEX1wYOTGDqNXuavlRC,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,4
+229,Hailie's Song,320640,True,['Eminem'],False,14,1,The Eminem Show,Eminem,spotify:track:6Db8IlZ7YY1pfIjJllejyH,0.787,0.731,7,-3.295,1,0.156,0.0168,8.7e-05,0.0839,0.511,80.98,4
+230,Steve Berman - Skit,33106,True,['Eminem'],False,15,1,The Eminem Show,Eminem,spotify:track:5ZxX55HFfi4aofGTxMp58x,0.682,0.0987,1,-22.723,1,0.612,0.133,0.0,0.105,0.396,100.247,5
+231,When The Music Stops,269013,True,"['Eminem', 'D12']",True,16,1,The Eminem Show,Eminem,spotify:track:73qINA7ccO03wxD8nsJalr,0.722,0.553,8,-3.578,0,0.118,0.0455,0.0,0.08,0.093,92.996,3
+232,Say What You Say,309893,True,"['Eminem', 'Dr. Dre']",True,17,1,The Eminem Show,Eminem,spotify:track:4EQkcrSLF3QdlwNca7sMXY,0.89,0.541,2,-3.672,1,0.418,0.179,0.0,0.167,0.428,113.411,5
+233,'Till I Collapse,297786,True,"['Eminem', 'Nate Dogg']",True,18,1,The Eminem Show,Eminem,spotify:track:4xkOaSrkexMciUUogZKVTS,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4
+234,My Dad's Gone Crazy,267013,True,"['Eminem', 'Hailie Jade']",True,19,1,The Eminem Show,Eminem,spotify:track:3F14hbIqy1JKKLTb1mzdYV,0.73,0.698,7,-5.089,1,0.508,0.0986,0.0,0.322,0.711,176.146,4
+235,Curtains Close,61866,True,['Eminem'],False,20,1,The Eminem Show,Eminem,spotify:track:51LeDAMy6nWqKdjVo7jK4j,0.572,0.412,11,-20.224,1,0.54,0.518,0.00026,0.334,0.685,99.314,3
+236,Public Service Announcement,33226,True,['Eminem'],False,1,1,The Slim Shady LP,Eminem,spotify:track:3GhcNCBIEMyrcpCJ8ccvXr,0.648,0.199,1,-25.565,1,0.883,0.275,0.0,0.136,0.95,149.548,1
+237,My Name Is,268400,True,['Eminem'],False,2,1,The Slim Shady LP,Eminem,spotify:track:75IN3CtuZwTHTnZvYM4qnJ,0.869,0.68,1,-6.233,1,0.318,0.0416,1.12e-06,0.0914,0.815,85.519,4
+238,Guilty Conscience,199333,True,"['Eminem', 'Dr. Dre']",True,3,1,The Slim Shady LP,Eminem,spotify:track:6da04YB906XonC6IQNC44u,0.66,0.789,7,-5.143,1,0.364,0.0527,0.0,0.341,0.513,182.218,4
+239,Brain Damage,226733,True,['Eminem'],False,4,1,The Slim Shady LP,Eminem,spotify:track:099MPsZhn5HkEUNlpA89rK,0.866,0.599,2,-7.903,1,0.163,0.00917,0.0,0.0655,0.831,94.982,4
+240,Paul - Skit,15840,True,"['Eminem', 'Paul ""Bunyan"" Rosenberg']",True,5,1,The Slim Shady LP,Eminem,spotify:track:0AaKi10VdO06R4fkBFBslc,0.816,0.266,8,-19.654,1,0.865,0.981,5.88e-05,0.799,0.837,130.845,4
+241,If I Had,245493,True,['Eminem'],False,6,1,The Slim Shady LP,Eminem,spotify:track:4Q7UkPYq3NGTwhAMjfeE4a,0.791,0.601,7,-4.978,0,0.217,0.000627,3.13e-05,0.107,0.272,168.161,3
+242,'97 Bonnie & Clyde,316400,False,['Eminem'],False,7,1,The Slim Shady LP,Eminem,spotify:track:6PJiaxg1lFSJFdMJrW7avo,0.713,0.909,9,-6.535,0,0.527,0.094,0.000169,0.306,0.73,184.032,4
+243,Bitch - Skit,19706,False,"['Eminem', 'Zoe Winkler']",True,8,1,The Slim Shady LP,Eminem,spotify:track:5OsBkrdyDlnDZ5siaAOtVt,0.804,0.336,6,-16.042,1,0.882,0.991,0.00347,0.625,0.968,97.607,3
+244,Role Model,205400,True,['Eminem'],False,9,1,The Slim Shady LP,Eminem,spotify:track:0EtirusGt3LivUmALXSMVe,0.865,0.589,7,-4.224,1,0.258,0.0218,4.6e-06,0.04,0.776,91.968,4
+245,Lounge - Skit,46533,True,"['Eminem', 'Jeff Bass', 'Mark Bass']",True,10,1,The Slim Shady LP,Eminem,spotify:track:1LoEersiNbdCJv96e8KjNk,0.303,0.376,4,-18.938,1,0.117,0.57,0.0,0.886,0.796,131.007,1
+246,My Fault,241600,True,['Eminem'],False,11,1,The Slim Shady LP,Eminem,spotify:track:3CNbDbMHxYHxEgrPGf89yc,0.754,0.631,11,-8.083,0,0.395,0.0463,1.39e-06,0.25,0.84,190.04,4
+247,Ken Kaniff - Skit,76293,True,"['Eminem', 'Aristotle', 'Mark Bass']",True,12,1,The Slim Shady LP,Eminem,spotify:track:1A6N0uZ1gp5BGU7fv7PUlu,0.78,0.368,5,-20.591,1,0.897,0.984,0.0,0.689,0.185,108.112,5
+248,Cum On Everybody,219240,True,['Eminem'],False,13,1,The Slim Shady LP,Eminem,spotify:track:6uXX9OgGchFrr2bq8RgIg6,0.887,0.758,1,-6.43,1,0.214,0.0254,0.000521,0.0887,0.652,105.118,4
+249,Rock Bottom,214093,True,['Eminem'],False,14,1,The Slim Shady LP,Eminem,spotify:track:3guazByz82uD2zHf8q7As1,0.859,0.642,6,-3.068,1,0.13,0.096,0.00927,0.21,0.353,92.055,4
+250,Just Don't Give A Fuck,242573,True,['Eminem'],False,15,1,The Slim Shady LP,Eminem,spotify:track:2MEvYNn2tRvFDAucAtAKVq,0.539,0.931,4,-1.803,0,0.262,0.000713,0.0,0.204,0.685,85.571,4
+251,Soap - Skit,34600,False,"['Eminem', 'Jeff Bass', 'Royce Da 5\'9""']",True,16,1,The Slim Shady LP,Eminem,spotify:track:2aXwXcdR1aGCYesbEr2DgV,0.474,0.425,1,-16.66,0,0.0617,0.97,0.000207,0.738,0.857,72.08,3
+252,As The World Turns,265333,True,['Eminem'],False,17,1,The Slim Shady LP,Eminem,spotify:track:0TBzphxYIeDLP9DAJUSUbP,0.861,0.731,8,-5.814,0,0.243,0.00324,0.0,0.0807,0.36,95.919,4
+253,I'm Shady,211960,False,['Eminem'],False,18,1,The Slim Shady LP,Eminem,spotify:track:3j3XiRDNkaUfINMB99hphS,0.841,0.718,6,-7.098,0,0.277,0.0315,1.92e-06,0.122,0.728,92.879,4
+254,Bad Meets Evil,253066,True,"['Eminem', 'Royce Da 5\'9""']",True,19,1,The Slim Shady LP,Eminem,spotify:track:7kQ0miyexmevMwUDqTomIN,0.664,0.903,11,-4.449,0,0.473,0.0328,0.0,0.863,0.608,94.667,4
+255,Still Don't Give A Fuck,252706,True,['Eminem'],False,20,1,The Slim Shady LP,Eminem,spotify:track:1F4lm7DxvpNvXfT3cGuJCb,0.693,0.856,4,-4.045,0,0.378,0.107,0.0,0.355,0.607,89.899,4
+256,Public Service Announcement,33093,True,['Eminem'],False,1,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:59z8uxWZVFpL2LfZ5C9AzY,0.66,0.199,9,-25.602,1,0.871,0.296,0.0,0.145,0.921,147.535,1
+257,My Name Is,268400,True,['Eminem'],False,2,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0Fv6CfegUbD5Egs0dj8CVB,0.845,0.682,9,-6.245,0,0.339,0.052,0.0,0.0931,0.813,85.561,4
+258,Guilty Conscience,199333,True,"['Eminem', 'Dr. Dre']",True,3,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:2iW8D4Vdy8lrOEBkYEJOzd,0.723,0.786,7,-5.094,1,0.313,0.0521,0.0,0.318,0.516,90.237,4
+259,Brain Damage,226706,True,['Eminem'],False,4,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:7iwK7RjGGJW9jdPj8ny754,0.871,0.602,2,-7.862,1,0.142,0.00823,0.0,0.0634,0.847,94.989,4
+260,Paul - Skit,15800,True,"['Eminem', 'Paul ""Bunyan"" Rosenberg']",True,5,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:4QB28IqGl9W8sDcIK7eBIW,0.829,0.253,10,-19.467,0,0.917,0.984,9.42e-05,0.76,0.809,97.478,3
+261,If I Had,245546,True,['Eminem'],False,6,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:6TCfbxgcjQwxCzM4Vmi6kf,0.786,0.59,7,-4.974,0,0.19,0.000521,3.26e-05,0.106,0.305,168.195,3
+262,'97 Bonnie & Clyde,316413,False,['Eminem'],False,7,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0PG5rPYaf19GiTf05urOBo,0.723,0.916,9,-6.526,0,0.517,0.0949,0.000405,0.297,0.743,184.083,4
+263,Bitch,19706,True,"['Eminem', 'Zoe Winkler']",True,8,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:3mqYXWPAteuKuhZmsuQWqV,0.834,0.343,11,-15.805,0,0.876,0.99,0.0123,0.617,0.969,97.191,3
+264,Role Model,205400,True,['Eminem'],False,9,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:3zXGMmgIygV00eFxyqmbeO,0.863,0.592,2,-4.219,1,0.253,0.0206,1.88e-06,0.0394,0.805,91.958,4
+265,Lounge - Skit,46533,True,"['Eminem', 'Jeff Bass', 'Mark Bass']",True,10,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0X0ClM8jVHU7N0ptHRqi7r,0.324,0.353,4,-18.873,1,0.09,0.61,0.0,0.903,0.848,113.898,3
+266,My Fault,241600,True,['Eminem'],False,11,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:59VFQQgqTmL8Rmm7zWECfx,0.754,0.618,0,-8.052,1,0.396,0.0382,1.07e-06,0.256,0.848,190.155,4
+267,Ken Kaniff - Skit,76226,True,"['Eminem', 'Aristotle', 'Mark Bass']",True,12,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:6MrCccPAByfUy41kvJlUUu,0.695,0.363,9,-20.531,0,0.881,0.983,0.0,0.67,0.141,59.454,5
+268,Cum On Everybody,219280,True,['Eminem'],False,13,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:6YxWzMtFrGETbAcvqbUiww,0.891,0.754,1,-6.441,1,0.199,0.0277,0.000652,0.0941,0.665,105.115,4
+269,Rock Bottom,214120,True,['Eminem'],False,14,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:7sKZWN4xVOSb4miTL1vRXx,0.859,0.644,6,-3.047,1,0.124,0.0783,0.00762,0.217,0.378,92.046,4
+270,Just Don't Give A Fuck,242533,True,['Eminem'],False,15,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:4xFLyM4FkPrh2EOODkwPES,0.587,0.935,11,-1.775,0,0.263,0.000633,0.0,0.214,0.705,85.595,4
+271,Soap - Skit,34600,False,"['Eminem', 'Jeff Bass', 'Royce Da 5\'9""']",True,16,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:6v5THhwG0Of1H0tBnZ7kkw,0.458,0.408,11,-16.553,1,0.0717,0.974,0.000418,0.791,0.832,73.133,3
+272,As The World Turns,265373,True,['Eminem'],False,17,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0pzXfsibHoO6eWDV262G1U,0.796,0.73,1,-5.809,0,0.316,0.00326,0.0,0.0816,0.336,95.857,4
+273,I'm Shady,211893,True,['Eminem'],False,18,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:2SvgBb7Wxa9ZfeamgGIGZl,0.838,0.713,11,-7.062,0,0.254,0.0248,2.05e-06,0.121,0.709,92.904,4
+274,Bad Meets Evil,253133,True,"['Eminem', 'Royce Da 5\'9""']",True,19,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:5VqSAZujDWDJkQ11Laf9W1,0.502,0.891,11,-4.54,0,0.709,0.0276,0.0,0.888,0.674,189.479,4
+275,Still Don't Give A Fuck,257493,True,['Eminem'],False,20,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:39KKZBAPkgKa4nqZBfkHJ5,0.681,0.851,4,-4.055,0,0.386,0.112,0.0,0.351,0.59,89.777,4
+276,Hazardous Youth - A Cappella,44040,True,['Eminem'],False,21,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:1Rt10mmWpCNEsA4MRpO7o0,0.805,0.4,10,-9.502,0,0.882,0.81,0.0,0.135,0.859,61.65,3
+277,Get You Mad,262213,True,"['Eminem', 'Sway & King Tech']",True,22,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:3Vh7tuvp5J5jpLrCqAcosU,0.793,0.77,7,-5.281,1,0.314,0.0134,0.0,0.258,0.564,91.433,4
+278,Greg - A Cappella,52546,True,['Eminem'],False,23,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0je6gk6ukXjHwzeybX6JLv,0.696,0.504,0,-8.473,1,0.905,0.788,0.0,0.104,0.642,99.883,4
+279,"Bad Guys Always Die - From ""Wild Wild West"" Soundtrack",279133,False,"['Eminem', 'Dr. Dre']",True,24,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:4KVVy0GeXO03ni8Cv4SWk8,0.722,0.747,2,-3.483,1,0.0509,0.0249,4.5e-06,0.197,0.343,95.866,4
+280,Guilty Conscience - Radio Version,199773,False,"['Eminem', 'Dr. Dre']",True,25,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:48dnzYTt8z03FNvblPWa6C,0.824,0.768,4,-5.391,0,0.216,0.0559,0.0,0.369,0.529,91.132,4
+281,Guilty Conscience - Instrumental,200880,False,"['Eminem', 'Dr. Dre']",True,26,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:1U2pLtCPZp5i9dLK1cAtJE,0.74,0.858,5,-5.284,0,0.0591,0.00018,0.866,0.377,0.927,91.173,4
+282,Guilty Conscience - A Cappella,196653,False,"['Eminem', 'Dr. Dre']",True,27,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:0rWApdVyBhFFpYxElidwox,0.678,0.591,9,-7.241,1,0.634,0.672,0.0,0.409,0.671,97.436,3
+283,My Name Is - Instrumental,269173,False,['Eminem'],False,28,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:5mQNVUP0weaqUx4zJI2whE,0.797,0.427,0,-6.799,0,0.133,0.00119,0.714,0.0699,0.398,171.056,4
+284,Just Don't Give A Fuck - A Cappella,215213,True,['Eminem'],False,29,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:64WSrtBF6R2Sdi4peJKOsp,0.634,0.476,7,-9.517,1,0.556,0.464,0.0,0.135,0.814,81.315,4
+285,Just Don't Give A Fuck - Instrumental,248186,False,['Eminem'],False,30,1,The Slim Shady LP (Expanded Edition),Eminem,spotify:track:5fQISkTXrsvl03iykOku34,0.642,0.585,4,-6.551,0,0.0568,0.00024,0.00114,0.208,0.54,85.419,4
