@@ -1,0 +1,330 @@
+body {
+   background-color: #000000eb;
+   color: white;
+}
+
+
+th:nth-child(1) {
+    text-align: left;
+}
+
+th:nth-child(2) {
+    text-align: right;
+}
+
+
+
+
+.artist{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#scatterplot {
+    padding: 0px;
+}
+
+#scatterplot div#area1{
+    display: block;
+}
+
+#scatterplot .axis path,
+#scatterplot .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+#scatterplot text {
+    font-size: 12px;
+    fill: #212121;
+    font-weight: bold;
+}
+
+.axisLabel {
+    fill: #000 !important;
+}
+
+#scatterplot circle {
+    stroke: #991f00;
+    stroke-width: 2px;
+    fill: #E64A19;
+}
+
+#scatterplot .axis text {
+    fill: #000;
+    font-size: 11px;
+}
+
+#scatterplot .title {
+    font-size: 20px;
+}
+
+#scatterplot svg {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+#scatterplot button {
+    background-color:#f2f2f2;
+    text-align:center;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#scatterplot button:hover {
+    background-color: #b3b3b3;
+}
+
+
+
+
+   body {
+      font-size: 10px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      text-align: center;
+    }
+
+    #title {
+      font-size: 20px;
+      padding-bottom: 10px;
+      padding-top: 20px;
+      font-weight: 300;
+    }
+
+    #explanation {
+      font-size: 12px;
+      max-width: 620px;
+      margin: 0 auto;
+      padding-top: 10px;
+      color: #ababab;
+      font-weight: 300;
+    }
+
+    .y.axis line {
+      fill: none;
+    }
+
+    .x.axis line {
+      fill: none;
+      stroke: #e0e0e0;
+      shape-rendering: crispEdges;
+    }
+
+    .axis path {
+      display: none;
+    }
+
+    .brush .extent {
+      fill-opacity: .125;
+      shape-rendering: crispEdges;
+    }
+
+    .resize {
+      display: inline !important; /* show when empty */
+      fill: #7A7A7A;
+      fill-opacity: 1;
+      stroke: #7A7A7A;
+      stroke-width: 2px;
+    }
+
+
+/*
+
+BRUSH -- SCATTERPLOT
+
+*/
+
+table {
+    font-family: sans-serif;
+    font-size: 20px;
+    table-layout: fixed;
+    width: 200px;
+
+    border:0; 
+    border-collapse:separate; 
+    border-spacing:0 5px;
+}
+
+thead tr th{
+    border-bottom: 1px solid red; 
+    border-collapse:separate; 
+    border-spacing:5px 5px;
+}
+ 
+
+tbody tr{
+    border-top: 3px solid #4d4d4d; 
+    border-collapse:separate;
+    border-spacing:5px 5px;
+}
+
+
+
+th,
+td {
+    overflow: hidden;
+    font-weight: 500;
+}
+
+/* from 1 to 5 set the color */
+
+.brushed1 {
+    fill: #581845;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed2 {
+    fill: #900c3f;
+    stroke: #8e691b;
+    opacity: 1.0;
+}
+
+.brushed3 {
+    fill: #c70039;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed4 {
+    fill: #5fad56;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed5 {
+    fill: #ffbd69;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.non_brushed {
+    fill: #404040;
+    opacity: 0.5;
+}
+
+/* Border to the brush */
+
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+
+svg {
+  font: 10px sans-serif;
+}
+
+path {
+    fill: white;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: green; 
+  shape-rendering: crispEdges;
+}
+
+#column1 .selection {
+  stroke: #581845;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+#column2 .selection {
+  stroke: #900c3f;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+#column3 .selection {
+  stroke: #c70039;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+#column4 .selection {
+  stroke: #ff5733;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+#column5 .selection {
+  stroke: #ffbd69;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+
+#table {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+var colors = ["#581845" , "#900c3f", "#c70039" , "#ff5733", "#ffbd69"];
+
+*/
+
+.axisWhite{
+    color: white;
+}
+
+
+
+/*
+color
+*/
+
+td {
+    padding: 5px;
+    margin: 5px;
+}
+
+/*
+.beatles {
+    color: #900c3f;
+}
+
+.mj {
+    color: #c70039;
+}
+
+.eminem {
+    color: #ff5733;
+}
+
+.rihanna {
+    color: #ffbd69;
+}
+
+*/
+
+
+.tooltip {
+
+}
+
+.grande {
+    font-size: 20px;
+    color: white;
+    background-color: red;
+}

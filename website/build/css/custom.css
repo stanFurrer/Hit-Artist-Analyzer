@@ -1,0 +1,597 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #141414;
+    font-family: 'Roboto';
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.17);
+    width: 100%;
+    color: white;
+    margin: auto;
+    line-height: 2em;
+    letter-spacing: 0.1em;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.main_title {
+    font-size: 5em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h1, h2, h3, h4, p {
+    opacity: 0.87;
+}
+
+hr {
+    border: 0.5px solid white;
+    opacity: 0.16;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.material-icons {
+    font-size: 42px;
+    color: rgba(255, 255, 255, 0.5);
+    padding-right: 30px;
+    padding-left: -40px;
+}
+
+.page-content {
+    width: 60%;
+    margin: auto;
+    letter-spacing: 0.1em;
+}
+
+.album.mdl-card {
+    width: 220px;
+    height: 220px;
+    /* float: left; */
+    margin: 1rem;
+    /* position: relative; */
+}
+
+.album.mdl-card:hover {
+    box-shadow: 0 8px 10px 1px rgba(0, 0, 0, .14), 0 3px 14px 2px rgba(0, 0, 0, .12), 0 5px 5px -3px rgba(0, 0, 0, .2);
+}
+
+.album>.mdl-card__title {
+    color: #fff;
+    background: #03a9f4;
+}
+
+.album>.mdl-card__accent {
+    background: #ff9800;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.mdl-layout__header {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.mdl-layout-title {
+    color: rgb(255, 255, 255);
+}
+
+.mdl-layout__header-row .mdl-navigation__link {
+    color: rgb(255, 255, 255);
+}
+
+/*
+Title
+*/
+.title {
+    text-align: center;
+}
+
+/* CSS for the banner element */
+.container {
+    max-width: 200px;
+    max-height: 200px;
+    position: relative;
+    margin: 0px;
+}
+
+div.img-with-text {
+    text-align: center;
+    color: white;
+}
+
+div.img-with-text:hover {}
+
+#banner {
+    width: 95%;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border-width: 0;
+    border-color: transparent;
+    background: transparent;
+    font-weight: 400;
+    cursor: pointer;
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: inherit;
+    padding: 5px 12px;
+    overflow: hidden;
+    border-width: 0;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+    transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.collapsible:focus {}
+
+.collapsible:hover {
+    opacity: 0.4;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+    display: block;
+    overflow: hidden;
+}
+
+.scroll-spotify {
+    width: 220px;
+}
+
+/*Widget 1 CSS */
+#buttons {
+    margin: auto;
+    padding: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button {
+    font-family: inherit;
+}
+
+.tick text {
+    fill: #fff;
+}
+
+.axis {
+    font-size: inherit;
+}
+
+.bttn-simple {
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    outline: none;
+    border-width: 0;
+    border-color: transparent;
+    background: transparent;
+    font-weight: 400;
+    cursor: pointer;
+    position: relative;
+    font-size: 14px;
+    font-family: inherit;
+    padding: 5px 12px;
+    overflow: hidden;
+    border-width: 0;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.14);
+    color: #fff;
+    -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+    transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+}
+
+.bttn-simple:focus {
+    background: rgba(255, 99, 99, 0.5);
+}
+
+.bttn-simple:hover {
+    opacity: 0.4;
+}
+
+#lollipop_d3 {
+    border-radius: 5px;
+    margin: auto;
+    max-width: 700px;
+    padding: -10px 10px 10px 10px;
+}
+
+/* CSS for the comment box */
+.comment {
+    margin: auto;
+}
+
+.comment-title {
+    background-color: rgba(255, 99, 99);
+    width: max-content;
+    text-align: left;
+    padding: 4px 10px 4px 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.comment-content {
+    background-color: rgba(255, 255, 255, 0.12);
+    padding: 10px 10px 10px 10px;
+}
+
+#mj_sin, #sin_beat, #rih_em {
+    margin: auto;
+}
+
+
+/* CSS FOR SCATTER TOP */
+
+
+th:nth-child(1) {
+    text-align: left;
+}
+
+th:nth-child(2) {
+    text-align: right;
+}
+
+.artist {
+    margin-left: 90px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    height: 30px;
+}
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#scatterplot {
+    padding: 0px;
+}
+
+#scatterplot div#area1 {
+    display: block;
+}
+
+#scatterplot .axis path,
+
+
+#scatterplot text {
+    font-size: 12px;
+    fill: #212121;
+    font-weight: bold;
+}
+
+.axisLabel {
+    fill: #000 !important;
+}
+
+#scatterplot circle {
+    stroke: #991f00;
+    stroke-width: 2px;
+    fill: #E64A19;
+}
+
+#scatterplot .axis text {
+    fill: #000;
+    font-size: 11px;
+}
+
+#scatterplot .title {
+    font-size: 20px;
+}
+
+#scatterplot svg {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#scatterplot button {
+    background-color: #f2f2f2;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#scatterplot button:hover {
+    background-color: #b3b3b3;
+}
+
+
+#title {
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-weight: 300;
+}
+
+#explanation {
+    font-size: 12px;
+    max-width: 620px;
+    margin: 0 auto;
+    padding-top: 10px;
+    color: #ababab;
+    font-weight: 300;
+}
+
+.y.axis line {
+    fill: none;
+}
+
+.x.axis line {
+    fill: none;
+    stroke: #e0e0e0;
+    shape-rendering: crispEdges;
+}
+
+.axis path {
+    display: none;
+}
+
+.brush .extent {
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+.resize {
+    display: inline !important;
+    /* show when empty */
+    fill: #7A7A7A;
+    fill-opacity: 1;
+    stroke: #7A7A7A;
+    stroke-width: 2px;
+}
+
+/*
+
+BRUSH -- SCATTERPLOT
+
+*/
+table {
+    font-family: sans-serif;
+    font-size: 20px;
+    table-layout: fixed;
+    width: 150px;
+    border: 0;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+}
+
+thead tr th {
+    border-bottom: 1px solid red;
+    border-collapse: separate;
+    border-spacing: 5px 5px;
+}
+
+tbody tr {
+    border-top: 3px solid #4d4d4d;
+    border-collapse: separate;
+    border-spacing: 5px 5px;
+}
+
+th,
+td {
+    overflow: hidden;
+    font-weight: 500;
+}
+
+/* from 1 to 5 set the color */
+.brushed1 {
+    fill: #581845;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed2 {
+    fill: #900c3f;
+    stroke: #8e691b;
+    opacity: 1.0;
+}
+
+.brushed3 {
+    fill: #c70039;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed4 {
+    fill: #5fad56;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.brushed5 {
+    fill: #ffbd69;
+    stroke: #8e1b54;
+    opacity: 1.0;
+}
+
+.non_brushed {
+    fill: #404040;
+    opacity: 0.5;
+}
+
+/* Border to the brush */
+.brush .extent {
+    stroke: #fff;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#column1 .selection {
+    stroke: #581845;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#column2 .selection {
+    stroke: #900c3f;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#column3 .selection {
+    stroke: #c70039;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#column4 .selection {
+    stroke: #ff5733;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#column5 .selection {
+    stroke: #ffbd69;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+#table {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+var colors = ["#581845" , "#900c3f", "#c70039" , "#ff5733", "#ffbd69"];
+
+*/
+.axisWhite {
+    color: white;
+}
+
+/*
+color
+*/
+td {
+    padding: 5px;
+    margin: 5px;
+}
+
+/*
+.beatles {
+    color: #900c3f;
+}
+
+.mj {
+    color: #c70039;
+}
+
+.eminem {
+    color: #ff5733;
+}
+
+.rihanna {
+    color: #ffbd69;
+}
+
+*/
+.tooltip {}
+
+.grande {
+    font-size: 20px;
+    color: white;
+    background-color: red;
+}
+
+#chart {
+    padding-bottom: 20px;
+    
+}
+
+
+#column1 #chart  {
+    border-bottom: 2px solid #581845;
+}
+
+#column2 #chart  {
+    border-bottom: 2px solid #900c3f;
+}
+
+#column3 #chart  {
+    border-bottom: 2px solid #c70039;
+}
+
+#column4 #chart  {
+    border-bottom: 2px solid #5fad56;
+}
+
+#column5 #chart  {
+    border-bottom: 2px solid #ffbd69;
+}
+
+.lyrics_box {
+    width: 120%;
+    margin-left: -10%;
+    margin-bottom: 30px;
+}
+
+a {
+    color: rgba(255, 99, 99);
+}
+
+
+.comment{
+    margin-bottom: 10px;
+}

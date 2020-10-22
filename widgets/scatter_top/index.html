@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-selection-multi.v0.4.min.js"></script>
+<!-- <script src="jetpack.js"></script> -->
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+
+<div class="row lyrics_box">
+    <!-- Rihanna -->
+    <div class="column frank" id="column1">
+	   <div class="artist">Frank Sinatra</p>
+
+        <div id="chart"></div>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <th>Words</th>
+                    <th>Count</th> 
+                </tr>
+            </table>
+        </div>
+    </div>
+    
+    <!-- Beatles -->
+    <div class="column beatles" id="column2">
+        <div class="artist">The Beatles</p>
+
+        <div id="chart"></div>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <th>Words</th>
+                    <th>Count</th> 
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <!-- Frank Sinatra -->
+    <div class="column mj" id="column3">
+        <div class="artist">Michael Jackson</p>
+
+        <div id="chart"></div>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <th>Words</th>
+                    <th>Count</th> 
+                </tr>
+            </table>
+        </div>
+    </div>
+    
+    <!-- Enimen -->
+    <div class="column eminem" id="column4">
+        <div class="artist">Eminem</p>
+
+        <div id="chart"></div>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <th>Words</th>
+                    <th>Count</th> 
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <!-- MJ -->
+    <div class="column rihanna" id="column5">
+        <div class="artist">Rihanna</p>
+
+        <div id="chart"></div>
+
+        <div id="table">
+            <table>
+                <tr>
+                    <th>Words</th>
+                    <th align="right" >Count</th> 
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+</body>
+
+
+<div id="my_dataviz">
+	<script src="scatter_top.js"></script>
+    <!-- <script src="horizontal.js"></script> -->
+	<!-- <script src="table.js"></script> -->
+
+    <script>
+        scatterTop(column_id=1, filename="data/frank_sinatra.csv");
+        scatterTop(column_id=2, filename="data/beatles.csv");
+        scatterTop(column_id=3, filename="data/mj.csv");
+        scatterTop(column_id=4, filename="data/eminem.csv");
+        scatterTop(column_id=5, filename="data/rihanna.csv");
+    </script>
+</div>
