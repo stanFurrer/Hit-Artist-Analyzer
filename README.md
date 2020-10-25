@@ -3,6 +3,7 @@
 #### Ever wondered what does Frank Sinatra, The Beatles, Michael Jackson, Eminem and Rihanna have in commons?
 
 Check our Website [here](https://stanfurrer.github.io/Hit-Artist-Analyzer/website/build/index)
+[here](https://stanfurrer.github.io/Hit-Artist-Analyzer/website/serve.sh)
 ### Presentation video:
 
 _The best solution if you got only two free minutes and no more_
