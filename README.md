@@ -100,7 +100,6 @@ Collection of Jupyter Notebooks used during pre-processing and for different ana
 
 #### Website
 
-`website` contains all code to produce the [final website](https://stanfurrer.github.io/Hit-Artist-Analyzer/website/build/index).
 
 All code live under `build` and the HTML/CSS and Javascript files are separated in their respective folders.
 
