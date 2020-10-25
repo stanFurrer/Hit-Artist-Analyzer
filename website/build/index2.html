@@ -1,0 +1,447 @@
+﻿<!doctype html>
+<html lang="en-us">
+
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Hit Artist Analyzer</title>
+    <meta name="description" content="">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-orange.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+    <!-- Web fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700|Source+Serif+Pro:700" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+
+    <!-- favicon.ico. Place these in the root directory. -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="shortcut icon" type="image/jpg" href="img/favicon.ico" />
+
+    <!-- Custom CSS -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Chart JS -->
+
+
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+
+</head>
+
+<body>
+
+
+    <!-- Always shows a header, even in smaller screens. -->
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <i class="material-icons md-light">equalizer</i>
+                <!-- Title -->
+                <span class="mdl-layout-title">Hit Artist Analyzer</span>
+                <!-- Add spacer, to align navigation to the right -->
+                <div class="mdl-layout-spacer"></div>
+                <!-- Navigation. We hide it in small screens. -->
+                <nav class="mdl-navigation mdl-layout--large-screen-only">
+                    <a class="mdl-navigation__link" href="#audio">Audio</a>
+                    <a class="mdl-navigation__link" href="#lyrics">Lyrics</a>
+                    <a class="mdl-navigation__link" href="#comparison">Artists comparison</a>
+                    <a class="mdl-navigation__link" href="https://github.com/stanFurrer/Hit-Artist-Analyzer" target="_blank">Github repository</a>
+                </nav>
+            </div>
+        </header>
+
+        <main class="mdl-layout__content wrapper">
+
+
+            <!-- Banner -->
+
+            <div id="banner">
+                <div class="img-with-text">
+                    <div class="container">
+                        <img src="img/banner/sinatra.png" class="box" width="200" height="200">
+                    </div>
+
+                    <div class="scroll-spotify">
+                        <button type="button" class="collapsible">Frank Sinatra</button>
+                        <div class="content">
+                            <iframe src="https://open.spotify.com/embed/artist/1Mxqyy3pSjf8kZZL4QVxS0" width="220" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="img-with-text">
+                    <div class="container">
+                        <img src="img/banner/beatles.png" class="box" width="200" height="200">
+
+                    </div>
+                    <div class="scroll-spotify">
+                        <button type="button" class="collapsible">The Beatles</button>
+                        <div class="content">
+                            <iframe src="https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2" width="220" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="img-with-text">
+                    <div class="container">
+                        <img src="img/banner/mj.png" class="box" width="200" height="200">
+                    </div>
+                    <div class="scroll-spotify">
+                        <button type="button" class="collapsible">Michael Jackson</button>
+                        <div class="content">
+                            <iframe src="https://open.spotify.com/embed/artist/3fMbdgg4jU18AjLCKBhRSm" width="220" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="img-with-text">
+                    <div class="container">
+                        <img src="img/banner/eminem.png" class="box" width="200" height="200">
+
+                    </div>
+                    <div class="scroll-spotify">
+                        <button type="button" class="collapsible">Eminem</button>
+                        <div class="content">
+                            <iframe src="https://open.spotify.com/embed/artist/7dGJo4pcD2V6oG8kP0tJRR" width="220" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="img-with-text">
+                    <div class="container">
+                        <img src="img/banner/rihanna.png" class="box" width="200" height="200">
+
+                    </div>
+                    <div class="scroll-spotify">
+                        <button type="button" class="collapsible">Rihanna</button>
+                        <div class="content">
+                            <iframe src="https://open.spotify.com/embed/artist/5pKCCKE2ajJHZ9KAiaK11H" width="220" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="js/banner.js"></script>
+
+
+
+
+            <div class="page-content">
+
+                <!-- Title -->
+                <div class="title">
+                    <h1 class="main_title">Hall of Fame</h1>
+                    <h2>Five Iconic Artists of their Time Compared</h2>
+                    <hr>
+                </div>
+
+                <!-- Intro -->
+                <div id="intro">
+                    <p>Music is an art that has always existed. Music creates passion and fame. Since the fifties, music has evolved very fast and many different music styles have emerged (rock & roll, pop, rap, hip-hop etc...). Here we present a story
+                        anlyzing the most iconic artists of their generation since 1950 with completely different music styles : Frank Sinatra and his jazzy tones, The Beatles and their (soft) rock & roll hits, Michael Jackson the king of Pop,
+                        Eminem the rap god and Rihanna the Hip-Hop queen.</p>
+                    <p>
+                        This story goes through each artist and compares them with respect to their musicality based on audio features extracted from Spotify and their lyrics extracted from Genius.
+                        Data vizualization has been created to allow the reader to explore the different artist musical universes and to discover their similarities and differences.</p>
+                </div>
+
+
+                <!-- Audio Analysis -->
+                <div id="audio">
+                    <h1>Audio Analysis</h1>
+                    <h4>A Data-Driven Audio Tour of the Artists</h4>
+                    <hr>
+                    <p>To identify and compare the audio signature of the different artists, we propose to use the following features provided by <a class="link" href="https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/">Spotify</a> that were then normalized:
+                        Tempo, Valence, Acousticness, Loudness, Energy and Danceability. The following vizualization allows you to compare different artists and explore their audio signature. Play with the buttons at the top and the bottom of the plot to compare two artists.</p>
+
+
+                    <!-- Add buttons -->
+                    <!-- Add 2 buttons -->
+                    <div class="audio_chart">
+                        <div class="lollipop_chart">
+                            <div id="buttons">
+                                <button onclick="update_2('Frank Sinatra')" class="bttn-simple" style="background-color: #FF6363;">Frank Sinatra</button>
+                                <button onclick="update_2('Eminem')" class="bttn-simple" style="background-color: #FF6363;">Eminem</button>
+                                <button onclick="update_2('Michael Jackson')" class="bttn-simple" style="background-color: #FF6363;">Michael Jackson</button>
+                                <button onclick="update_2('Rihanna')" class="bttn-simple" style="background-color: #FF6363;">Rihanna</button>
+                                <button onclick="update_2('The Beatles')" class="bttn-simple" style="background-color: #FF6363;">The Beatles</button>
+                            </div>
+
+                            <!-- Include D3.js chart -->
+                            <div id="lollipop_d3">
+                                <script src="js/lollipop.js"></script>
+                            </div>
+
+                            <!-- Create a div where the graph will take place -->
+                            <div id="buttons">
+                                <button onclick="update_1('Frank Sinatra')" class="bttn-simple" style="background-color: #900c3f;">Frank Sinatra</button>
+                                <button onclick="update_1('Eminem')" class="bttn-simple" style="background-color: #900c3f;">Eminem</button>
+                                <button onclick="update_1('Michael Jackson')" class="bttn-simple" style="background-color: #900c3f;">Michael Jackson</button>
+                                <button onclick="update_1('Rihanna')" class="bttn-simple" style="background-color: #900c3f;">Rihanna</button>
+                                <button onclick="update_1('The Beatles')" class="bttn-simple" style="background-color: #900c3f;">The Beatles</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="comment">
+                        <div class="comment-title">
+                            What can we see?
+                        </div>
+                        <div class="comment-content">
+                            <p>We can see the diminution of the "acousticness" value for more modern musicians. As expected, Eminem seems to be the loudest and the most energetic singer. What else can you observe?</p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Lyrics Analysis -->
+                <div id="lyrics">
+                    <h1>Lyrics Analysis</h1>
+                    <hr>
+                    <p>
+
+                        Let’s now explore the lyrics of the different artists : what are the most used words by the different artists? Are they the same? Is Eminem positive or negative in his songs? What about the others? What words describe a
+                        positive or a negative songs for each artist? </br>
+
+                        Move the brush from top to bottom and resize it to select more or less positive songs for each artist and see what are the most used words per artist for the selected songs.
+                    </p>
+
+                    <div class="row lyrics_box">
+                        <!-- Rihanna -->
+                        <div class="column frank" id="column1">
+                            <p class="artist">Frank Sinatra</p>
+
+                            <div id="chart"></div>
+
+                            <div id="table">
+                                <table>
+                                    <tr>
+                                        <th>Words</th>
+                                        <th>Count</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+
+                        <!-- Beatles -->
+                        <div class="column beatles" id="column2">
+                            <p class="artist">The Beatles</p>
+
+                            <div id="chart"></div>
+
+                            <div id="table">
+                                <table>
+                                    <tr>
+                                        <th>Words</th>
+                                        <th>Count</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+
+                        <!-- Frank Sinatra -->
+                        <div class="column mj" id="column3">
+                            <p class="artist">Michael Jackson</p>
+
+                            <div id="chart"></div>
+
+                            <div id="table">
+                                <table>
+                                    <tr>
+                                        <th>Words</th>
+                                        <th>Count</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+
+                        <!-- Enimen -->
+                        <div class="column eminem" id="column4">
+                            <p class="artist">Eminem</p>
+
+                            <div id="chart"></div>
+
+                            <div id="table">
+                                <table>
+                                    <tr>
+                                        <th>Words</th>
+                                        <th>Count</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+
+                        <!-- MJ -->
+                        <div class="column rihanna" id="column5">
+                            <p class="artist">Rihanna</p>
+
+                            <div id="chart"></div>
+
+                            <div id="table">
+                                <table>
+                                    <tr>
+                                        <th>Words</th>
+                                        <th align="right">Count</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <script src="js/scatter_top.js"></script>
+                    <script>
+                        scatterTop(column_id = 1, filename = "data/frank_sinatra_lyrics.csv");
+                        scatterTop(column_id = 2, filename = "data/beatles_lyrics.csv");
+                        scatterTop(column_id = 3, filename = "data/mj_lyrics.csv");
+                        scatterTop(column_id = 4, filename = "data/eminem_lyrics.csv");
+                        scatterTop(column_id = 5, filename = "data/rihanna_lyrics.csv");
+                    </script>
+                </div>
+
+                <div class="comment">
+                    <div class="comment-title">
+                        Key Takeaways
+                    </div>
+                    <div class="comment-content">
+                        <p>First, when selecting all the songs for all the artists, it appears that the word "love" is the most used word for all artists (except Eminem where it is "like"). It is comforting to know that there is so much love in this
+                            world.</p>
+                          <p>  Secondly, baby is in the top words of all artists except Frank Sinatra (and Eminem again…). We can deduce here that vocabulary has changed since Frank Sinatra's period but also that Eminem is lonely.</p>
+                    </div>
+                </div>
+
+
+
+                <div class="comment">
+                    <div class="comment-title">
+                        Why are you so negative?
+                    </div>
+                    <div class="comment-content">
+                        <p>It is not a surprise, Eminem has negative lyrics and is using many times (almost 1500) pretty bad words we can not write here (like fuck or shit). The data are pretty explicit, Eminem is a sad (or mad) guy.</p>
+                    </div>
+                </div>
+
+
+
+                <!-- To go further -->
+                <div id="comparison">
+                    <h1>Artists Comparison</h1>
+                    <hr>
+
+                    <p>Let’s try now to go more in-depth and explore the link between some of these five artists on specific songs. Indeed, many of them have sang the same song, sang together or have been produced by the same producer.
+                        On the following vizualisation, the zones represent the artist audio signature and the lines represent a specific song common to both artists. The zones have been generated as follows : the median of each feature of the artist's discography for the center and the standard deviation for the width. Play with buttons to see the different songs common to two artists.</p>
+
+                    <div id="mj_sin">
+                        <h3>Michael Jackson & Frank Sinatra</h3>
+                        <p>Michael Jackson & Frank Sinatra both have been produced by the legendary Quincy Jones.
+                           For Michael Jackson, his greateast albums such as Off The Wall, Thriller or Bad were produced by Quincy Jones,
+                            and for Sinatra, he has collaborated multiple times with Quincy Jones, but he was produced only once for his album L.A is my Lady.
+                          </p>
+                          <p>
+                            Below, you can observe the following line graph. In purple is drawn the area representing Michael Jackson's most representative audio feature values, and in red, Sinatra's. You can now see in yellow the mean value for Michael Jackson's
+                            albums produced by Quincy Jones, and the mean value for Sinatra's Quincy Jones produced tracks.
+                          </p>
+                    </div>
+
+                    <div id="mj_sin_dataviz">
+                        <script src="js/mj_sin2.js"></script>
+                    </div>
+
+                    <div class="comment">
+                        <div class="comment-title">
+                            Who is Quincy Jones?
+                        </div>
+                        <div class="comment-content">
+                            <p>Quincy Jones is a record producer, musician and film producer. He has worked with famous musicians such as Michael Jackson, Frank Sinatra. He is the most Grammy-nominated artist in history, with 79 nominations and 27
+                                wins.</p>
+                        </div>
+                    </div>
+
+                    <div class="comment">
+                        <div class="comment-title">
+                            How did Quincy Jones influence the albums?
+                        </div>
+                        <div class="comment-content">
+                            <p>We can see that Jones created the musical style of Michael Jackson that we all know, as the audio features of his albums fit perfectly
+                            within Michael Jackson's discography. He also respected Sinatra's musical style. We can see that Quincy Jone's talent comes from
+                            producing quality music that fit the artists he works with.
+                          </p>
+                        </div>
+                    </div>
+
+                    <div id="rih_em">
+                        <h3>Rihanna & Eminem</h3>
+                        <p>Rihanna and Eminem sang four different songs together in different albums. Some songs belong to Rihanna albums, some to Eminem’s. Play with the buttons to see how these songs fit in the audio signature of Eminem or Rihanna.</p>
+                        <div id="buttons">
+                            <button onclick="update_rih_em('Love The Way You Lie')" class="bttn-simple">Love The Way You Lie</button>
+                            <button onclick="update_rih_em('Love The Way You Lie (Part II) - Pt. 2')" class="bttn-simple">Love The Way You Lie (Part II)</button>
+                            <button onclick="update_rih_em('The Monster')" class="bttn-simple">The Monster</button>
+                            <button onclick="update_rih_em('Numb')" class="bttn-simple">Numb</button>
+                        </div>
+                        <div id="rih_em_dataviz">
+                            <script src="js/rihanna_eminem.js"></script>
+                        </div>
+                        <p>Love the Way you lie (original) fits more with the Eminem signature but Love the Way you lie (Part II) fits more with Rihanna's Signature. </p>
+                        <p>Numb is a perfect balance between the two styles (that are already pretty similar).</p>
+                        <p>The Monster fits more with Eminem but is balanced.</p>
+
+                    </div>
+
+
+
+                    <div id="sin_beat">
+                        <h3>Frank Sinatra & The Beatles</h3>
+                        <p>Frank Sinatra reprised two of The Beatles' classics: Yesterday and Something. How does each interpretation relate to both artists? </p>
+                        <div id="buttons">
+                            <button onclick="update_sin_beat('Yesterday')" class="bttn-simple">Yesterday</button>
+                            <button onclick="update_sin_beat('Something')" class="bttn-simple">Something</button>
+                        </div>
+
+                        <div id="sin_beat_dataviz">
+                            <script src="js/sinatra_beatles.js"></script>
+                        </div>
+                        <p>We can see that Sinatra seems to switch his style when singing The Beatles songs
+                          but does not try to imitate their music. Yesterday by The Beatles also seems more like a Sinatra-song,
+                          then Yesterday by Sinatra! It looks like both of these artists could have been influenced by each other.
+                         </p>
+
+                        <div class="comment">
+                            <div class="comment-title">
+                                What to conclude ?
+                            </div>
+                            <div class="comment-content">
+                                <p> These vizualisations are an efficient way to compare artists and songs for these artists.
+                                  What artists are you interested in comparing? What did we miss? If you are interested in this, you can visit our<a href="https://github.com/stanFurrer/Hit-Artist-Analyzer"> Github Repository</a>, and use our tools
+                                  to create your own vizualisations.
+                                 </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div id="authors">
+
+                    <h1>Authors</h1>
+
+                    <p>Made by Stanislas Furrer, Jonathan Besomi and Julien Salomon for the course <a href="https://edu.epfl.ch/coursebook/en/data-visualization-COM-480">Data visualization, COM-480.</a></p>
+                </div>
+
+                <div style="height: 100px;"></div>
+
+            </div>
+            <footer>
+
+            </footer>
+        </main>
+    </div>
+</body>
+
+</html>
