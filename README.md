@@ -2,7 +2,7 @@
 
 #### Ever wondered what does Frank Sinatra, The Beatles, Michael Jackson, Eminem and Rihanna have in commons?
 
-
+Check our Website [here](https://stanfurrer.github.io/Hit-Artist-Analyzer/website/build/index)
 ### Presentation video:
 
 _The best solution if you got only two free minutes and no more_
@@ -100,7 +100,7 @@ Collection of Jupyter Notebooks used during pre-processing and for different ana
 
 #### Website
 
-`website` contains all code to produce the [final website](https://hit-artist-analyzer.now.sh).
+`website` contains all code to produce the [final website](https://stanfurrer.github.io/Hit-Artist-Analyzer/website/build/index).
 
 All code live under `build` and the HTML/CSS and Javascript files are separated in their respective folders.
 
