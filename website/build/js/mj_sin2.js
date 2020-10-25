@@ -148,7 +148,7 @@ function display_song_mj_sin(file, color) {
     })
 }
 
-display_conf_interval_mj_sin("data/Michael_Jackson_mean_std.csv", colors[0])
-display_conf_interval_mj_sin("data/Frank_Sinatra_mean_std.csv", colors[2])
-display_song_mj_sin("data/mj_quincy.csv", colors[5])
-display_song_mj_sin("data/sinatra_quincy.csv", colors[4])
+display_conf_interval_mj_sin("../data/Michael_Jackson_mean_std.csv", colors[0])
+display_conf_interval_mj_sin("../data/Frank_Sinatra_mean_std.csv", colors[2])
+display_song_mj_sin("../data/mj_quincy.csv", colors[5])
+display_song_mj_sin("../data/sinatra_quincy.csv", colors[4])
