@@ -85,7 +85,7 @@ Two previous milestone markdown and files.
 
 - [Milestone 1](/milestones/milestone_1.md)
 - [Milestone 2](/milestones/milestone_2.md)
-   - 2 pages PDF report: [milestone_2.pdf](/milestones/milestone_2.pdf)
+   - 2 pages PDF report: [milestone_2.pdf](https://github.com/stanFurrer/Hit-Artist-Analyzer/blob/main/milestones/milestone_2.pdf)
 
 #### Notebooks
 
